@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block title %}Power Management{% endblock %} 
+{% block power %}active{% endblock %}
+{% block content %}
+
+<h1>120 Power Controls</h1>
+	<div class="col">
+		<a class="btn btn-{% if cstat == 'T' %}success{% else %}danger{% endif %} btn-lg" href="/charger/turn{% if charger == 'F' %}on{% else %}off{% endif %}" style="margin: 5px;">charger <i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" 
+		title="TURN {% if cstat == 'T' %}OFF{% else %}ON{% endif %}"></i></a>
+	</div>
+	<div class="col">
+		<a class="btn btn-{% if pohstat == 'T' %}success{% else %}danger{% endif %} btn-lg" href="/pondheater/turn{% if pohstat == 'F' %}on{% else %}off{% endif %}" style="margin: 5px;">Pond Heater <i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" 
+			title="TURN {% if pohstat == 'T' %}OFF{% else %}ON{% endif %}"></i></a>
+	</div>
+	<div class="col">	
+		<a class="btn btn-{% if pihstat == 'T' %}success{% else %}danger{% endif %} btn-lg" href="/pipeheater/turn{% if pihstat == 'F' %}on{% else %}off{% endif %}" style="margin: 5px;">Pipe and Valve Heater<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" 
+					title="TURN {% if pihstat == 'T' %}OFF{% else %}ON{% endif %}"></i></a>
+	</div>
+	<div class="col">	
+		<a class="btn btn-{% if efstat == 'T' %}success{% else %}danger{% endif %} btn-lg" href="/eastfan/turn{% if efstat == 'F' %}on{% else %}off{% endif %}" style="margin: 5px;">East UG Fan<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" 
+					title="TURN {% if efstat == 'T' %}OFF{% else %}ON{% endif %}"></i></a>
+	</div>
+	<div class="col">	
+		<a class="btn btn-{% if apstat == 'T' %}success{% else %}danger{% endif %} btn-lg" href="/aquapump/turn{% if apstat == 'F' %}on{% else %}off{% endif %}" style="margin: 5px;">Aquaponic Pump<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" 
+					title="TURN {% if apstat == 'T' %}OFF{% else %}ON{% endif %}"></i></a>
+	</div>
+		<div class="col">	
+		<a class="btn btn-{% if tbdstat == 'T' %}success{% else %}danger{% endif %} btn-lg" href="/testlight/turn{% if tbdstat == 'F' %}on{% else %}off{% endif %}" style="margin: 5px;">Space Heater<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" 
+					title="TURN {% if tbdstat == 'T' %}OFF{% else %}ON{% endif %}"></i></a>
+	</div>
+{% endblock content %}

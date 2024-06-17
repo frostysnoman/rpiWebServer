@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block title %}Air Management{% endblock %} 
+{% block air %}active{% endblock %}
+{% block content %}
+{{Relay8b, Relay7b, Relay6b, Relay5b}}
+		<h1>Air Controls</h1>
+		<div class="row row-cols-auto">
+			<div class="col">
+				<a class="btn btn-{% if Relay8b == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay8b/{% if Relay8b == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">East UG Fan
+					 <i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay8b == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+			<div class="col">
+				<a class="btn btn-{% if Relay7b == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay7b/{% if Relay7b == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">West UG Fan 
+					<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay7b == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+			<div class="col">
+				<a class="btn btn-{% if Relay6b == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay6b/{% if Relay6b == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">North Turbulator 
+					<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay6b == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+			<div class="col">
+				<a class="btn btn-{% if Relay5b == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay5b/{% if Relay5b == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">South Turbulator
+					<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay5b == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+		</div>
+{% endblock content %}

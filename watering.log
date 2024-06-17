@@ -1,0 +1,47 @@
+The current date and time is 2024-06-17 09:00:02.081648
+zone1 is  0
+zone2 is  0
+zone3 is  0
+zone4 is  0
+zone5 is  0
+zone6 is  0
+watering day
+watering hours
+turning on pump
+checking moisture for zone 1
+getting moisture for 1
+SELECT moist_soil_1 FROM weather where moist_soil_2 is not null order by ID DESC limit 1; 
+got record
+no value
+10
+moisture is: 10
+turning on zone 1 for 1 hr
+turning off zone 1
+getting moisture for 1
+SELECT moist_soil_1 FROM weather where moist_soil_2 is not null order by ID DESC limit 1; 
+got record
+no value
+10
+moisture after watering:10
+checking moisture for zone 2
+getting moisture for 2
+SELECT moist_soil_2 FROM weather where moist_soil_2 is not null order by ID DESC limit 1; 
+got record
+1.2
+moisture is: 1.2
+zone 2is plenty moist
+checking moisture for zone 3
+getting moisture for 3
+SELECT moist_soil_3 FROM weather where moist_soil_2 is not null order by ID DESC limit 1; 
+got record
+2.5
+moisture is: 2.5
+zone 3is plenty moist
+checking moisture for zone 4
+getting moisture for 4
+SELECT moist_soil_4 FROM weather where moist_soil_2 is not null order by ID DESC limit 1; 
+got record
+2.8
+moisture is: 2.8
+zone 4is plenty moist
+exiting

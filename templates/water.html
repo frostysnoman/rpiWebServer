@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}Water Management{% endblock %} 
+{% block water %}active{% endblock %}
+{% block content %}
+{{Relay1b, Relay2b, Relay1a, Relay2a, Relay3a, Relay4a, Relay4b}}
+	<div class="container-fluid">
+		<h1>Pump Controls<br></h1>
+			<div class="row row-cols-auto">
+			<div class="col">
+				<a class="btn btn-{% if Relay1b == 1 %}success{% else %}danger{% endif %} btn-lg" href="/PUMP{% if Relay1b == 0 %}ON{% else %}OFF{% endif %}" style="margin: 5px;">240 Well Pump <i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay1b == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			<h1>Zone Controls<br></h1>
+			<div class="col">
+				<a class="btn btn-{% if Relay1a == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay1a/{% if Relay1a == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">Chaos Garden <i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay1a == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+			<div class="col">
+				<a class="btn btn-{% if Relay2a == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay2a/{% if Relay2a == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">South West <i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay2a == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+			<div class="col">
+				<a class="btn btn-{% if Relay3a == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay3a/{% if Relay3a == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">South East <i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay3a == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+			<div class="col">
+				<a class="btn btn-{% if Relay4a == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay4a/{% if Relay4a == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">East<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay4a == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+			<h1>Waterfall<br></h1>
+			<div class="col">
+				<a class="btn btn-{% if Relay4b == 1 %}success{% else %}danger{% endif %} btn-lg" href="/relay4b/{% if Relay4b == 0 %}on{% else %}off{% endif %}" style="margin: 5px;">Waterfall<i class="bi bi-power" style="padding: 1px 1px; margin-left: 1px; margin-right: 1px;" title="TURN {% if Relay4b == 1 %}OFF{% else %}ON{% endif %}"></i></a>
+			</div>
+	</div>
+{% endblock content %}

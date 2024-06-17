@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %} 
+{% block home %}active{% endblock %}
+{% block content %}
+	<div class="container-fluid">
+		<div class="row row-cols-auto">
+			<div class="col">
+				<h1>Water Depths</h1>
+				<div class="depths">
+					<h2>Pond Depth ==> {{'%0.2f'|format( pdepth|float)}}cm / {{'%0.2f'|format(pdepth/2.54|float)}}in</h2>
+					<h2>Cistern Depth ==> {{ '%0.2f'|format(cdepth|float)}}cm / {{'%0.2f'|format(cdepth/2.54|float)}}in</h2>
+				</div>
+			</div>
+			
+			<div class="col">
+				<h1>
+					Greenhouse Temps</h1>
+				<div class="temps">
+					<h2>Floor ==> {{ '%0.2f'|format(valvestemp_data|float) }}c / {{ '%0.2f'|format(vtdf|float) }}f</h2>
+					
+					<h2>Head==> {{ '%0.2f'|format(headtemp_data|float) }}c / {{'%0.2f'|format(htdf|float) }}f</h2>
+					<h2>CPU ==> {{ '%0.2f'|format(cputemp|float) }}c / {{'%0.2f'|format(ctf|float)}}f</h2>
+				</div>
+			</div>
+			<div class="col"
+				<h1>
+					Soil Moisture (wet<4-8>dry</4-8>)</h1>
+				<div class="Moisture">
+					<h2>Zone 1 ==>{{ moist_soil_1 }}</h2>
+					<h2>Zone 2 ==>{{ moist_soil_2 }}</h2>
+					<h2>Zone 3 ==>{{ moist_soil_3 }}</h2>
+					<h2>Zone 4 ==>{{ moist_soil_4 }}</h2>
+				</div>
+			</div>
+		</div>
+		<div class="col"
+				<h1>
+					Soil Temps </h1>
+				<div class="Temps">
+					<h2>Zone 1 ==>{{ temp_soil_1 }}f</h2>
+					<h2>Zone 2 ==>{{ temp_soil_2 }}f</h2>
+					<h2>Zone 3 ==>{{ temp_soil_3 }}f</h2>
+					<h2>Zone 4 ==>{{ temp_soil_4 }}f</h2>
+				</div>
+			</div>
+		<div class="battery">
+			<div class="col">
+				<h1>
+					12v Battery</h1>
+				<h2>Voltage: {{batt_voltage}} V</h2>
+				<h2>Current: {{batt_current}} A</h2>
+				<H2>Charge Remaining: {{batt_rem_chg}}%</H2>
+				<H2>Capacity: {{batt_cap}}%</H2>
+			</div>	
+		</div>
+	</div>
+{% endblock content %}

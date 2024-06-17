@@ -1,0 +1,362 @@
+[2024-05-03 20:38:14,795] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-03 20:38:14,796] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-03 20:38:14,806] INFO in _internal:  * Restarting with stat
+[2024-05-03 20:38:17,146] WARNING in _internal:  * Debugger is active!
+[2024-05-03 20:38:17,148] INFO in _internal:  * Debugger PIN: 969-041-151
+[2024-05-03 20:38:27,534] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:38:27] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-05-03 20:38:27,764] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:38:27] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-05-03 20:38:27,769] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:38:27] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-05-03 20:38:27,884] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:38:27] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-05-03 20:38:27,999] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:38:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-03 20:40:41,780] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-03 20:40:41,780] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-03 20:40:41,787] INFO in _internal:  * Restarting with stat
+[2024-05-03 20:40:44,124] WARNING in _internal:  * Debugger is active!
+[2024-05-03 20:40:44,127] INFO in _internal:  * Debugger PIN: 901-220-695
+[2024-05-03 20:40:52,526] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:40:52] "GET / HTTP/1.1" 200 -
+[2024-05-03 20:40:52,664] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:40:52] "GET /static/style.css HTTP/1.1" 200 -
+[2024-05-03 20:40:53,049] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:40:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-05-03 20:40:56,311] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:40:56] "[33mGET /water HTTP/1.1[0m" 404 -
+[2024-05-03 20:41:01,022] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:41:01] "[33mGET /power HTTP/1.1[0m" 404 -
+[2024-05-03 20:41:03,599] INFO in _internal: 192.168.150.151 - - [03/May/2024 20:41:03] "[33mGET /air HTTP/1.1[0m" 404 -
+[2024-05-03 20:41:20,809] INFO in _internal: 192.168.150.105 - - [03/May/2024 20:41:20] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 20:46:56,899] INFO in _internal: 192.168.150.106 - - [03/May/2024 20:46:56] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 20:51:24,357] INFO in _internal: 192.168.150.105 - - [03/May/2024 20:51:24] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 20:56:57,763] INFO in _internal: 192.168.150.106 - - [03/May/2024 20:56:57] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 21:01:27,902] INFO in _internal: 192.168.150.105 - - [03/May/2024 21:01:27] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 21:06:58,358] INFO in _internal: 192.168.150.106 - - [03/May/2024 21:06:58] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 21:11:31,452] INFO in _internal: 192.168.150.105 - - [03/May/2024 21:11:31] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 21:16:59,152] INFO in _internal: 192.168.150.106 - - [03/May/2024 21:16:59] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 21:21:34,747] INFO in _internal: 192.168.150.105 - - [03/May/2024 21:21:34] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 21:26:59,717] INFO in _internal: 192.168.150.106 - - [03/May/2024 21:26:59] "POST /depth HTTP/1.1" 200 -
+[2024-05-03 21:31:38,442] INFO in _internal: 192.168.150.105 - - [03/May/2024 21:31:38] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 08:33:20,076] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-04 08:33:20,078] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-04 08:33:20,088] INFO in _internal:  * Restarting with stat
+[2024-05-04 08:33:22,676] WARNING in _internal:  * Debugger is active!
+[2024-05-04 08:33:22,679] INFO in _internal:  * Debugger PIN: 969-041-151
+[2024-05-04 08:36:19,661] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-04 08:36:19,662] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-04 08:36:19,670] INFO in _internal:  * Restarting with stat
+[2024-05-04 08:36:25,303] WARNING in _internal:  * Debugger is active!
+[2024-05-04 08:36:25,306] INFO in _internal:  * Debugger PIN: 969-041-151
+[2024-05-04 08:37:24,782] INFO in _internal: 192.168.150.151 - - [04/May/2024 08:37:24] "GET / HTTP/1.1" 200 -
+[2024-05-04 08:37:25,068] INFO in _internal: 192.168.150.151 - - [04/May/2024 08:37:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 08:37:35,119] INFO in _internal: 192.168.150.151 - - [04/May/2024 08:37:35] "[33mGET /water HTTP/1.1[0m" 404 -
+[2024-05-04 08:37:47,735] INFO in _internal: 192.168.150.106 - - [04/May/2024 08:37:47] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 08:45:27,736] INFO in _internal: 192.168.150.105 - - [04/May/2024 08:45:27] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 08:47:48,565] INFO in _internal: 192.168.150.106 - - [04/May/2024 08:47:48] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 08:55:31,289] INFO in _internal: 192.168.150.105 - - [04/May/2024 08:55:31] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 08:57:49,246] INFO in _internal: 192.168.150.106 - - [04/May/2024 08:57:49] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 08:59:29,939] INFO in _internal: 192.168.150.151 - - [04/May/2024 08:59:29] "GET / HTTP/1.1" 200 -
+[2024-05-04 08:59:30,127] INFO in _internal: 192.168.150.151 - - [04/May/2024 08:59:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:05:34,766] INFO in _internal: 192.168.150.105 - - [04/May/2024 09:05:34] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 09:07:50,098] INFO in _internal: 192.168.150.106 - - [04/May/2024 09:07:50] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 09:11:30,430] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:11:30] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:11:30,528] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:11:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:14:40,277] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:14:40] "[33mGET /air HTTP/1.1[0m" 404 -
+[2024-05-04 09:15:11,537] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app_1.py', reloading
+[2024-05-04 09:15:12,136] INFO in _internal:  * Restarting with stat
+[2024-05-04 09:15:20,448] WARNING in _internal:  * Debugger is active!
+[2024-05-04 09:15:20,450] INFO in _internal:  * Debugger PIN: 969-041-151
+[2024-05-04 09:15:38,114] INFO in _internal: 192.168.150.105 - - [04/May/2024 09:15:38] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 09:15:53,678] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:15:53] "[33mGET /air HTTP/1.1[0m" 404 -
+[2024-05-04 09:16:00,866] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:16:00] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:16:00,984] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:16:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:17:51,042] INFO in _internal: 192.168.150.106 - - [04/May/2024 09:17:51] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 09:20:14,262] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app_1.py', reloading
+[2024-05-04 09:20:14,859] INFO in _internal:  * Restarting with stat
+[2024-05-04 09:20:21,735] WARNING in _internal:  * Debugger is active!
+[2024-05-04 09:20:21,738] INFO in _internal:  * Debugger PIN: 969-041-151
+[2024-05-04 09:20:47,098] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app_1.py', reloading
+[2024-05-04 09:20:47,684] INFO in _internal:  * Restarting with stat
+[2024-05-04 09:20:54,645] WARNING in _internal:  * Debugger is active!
+[2024-05-04 09:20:54,648] INFO in _internal:  * Debugger PIN: 969-041-151
+[2024-05-04 09:22:23,846] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:22:23] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:22:23,985] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:22:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:22:26,408] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:22:26] "[33mGET /water HTTP/1.1[0m" 404 -
+[2024-05-04 09:22:30,299] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:22:30] "[33mGET /air HTTP/1.1[0m" 404 -
+[2024-05-04 09:22:43,611] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:22:43] "[33mGET /air.html HTTP/1.1[0m" 404 -
+[2024-05-04 09:22:50,164] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:22:50] "[33mGET /power HTTP/1.1[0m" 404 -
+[2024-05-04 09:22:57,371] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:22:57] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:22:57,431] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:22:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:24:45,666] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app_1.py', reloading
+[2024-05-04 09:24:46,262] INFO in _internal:  * Restarting with stat
+[2024-05-04 09:24:53,010] WARNING in _internal:  * Debugger is active!
+[2024-05-04 09:24:53,013] INFO in _internal:  * Debugger PIN: 969-041-151
+[2024-05-04 09:25:41,453] INFO in _internal: 192.168.150.105 - - [04/May/2024 09:25:41] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 09:25:41,892] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:25:41] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:25:42,052] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:25:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:25:49,163] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:25:49] "[33mGET /power HTTP/1.1[0m" 404 -
+[2024-05-04 09:27:46,178] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:27:46] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:27:46,243] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:27:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:27:52,509] INFO in _internal: 192.168.150.106 - - [04/May/2024 09:27:52] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 09:34:28,335] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-04 09:34:28,337] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-04 09:34:28,345] INFO in _internal:  * Restarting with stat
+[2024-05-04 09:34:35,682] WARNING in _internal:  * Debugger is active!
+[2024-05-04 09:34:35,685] INFO in _internal:  * Debugger PIN: 969-041-151
+[2024-05-04 09:34:35,875] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:35] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:34:36,028] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:34:37,583] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:37] "GET /water HTTP/1.1" 200 -
+[2024-05-04 09:34:37,697] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:34:38,479] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:38] "GET /air HTTP/1.1" 200 -
+[2024-05-04 09:34:38,608] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:34:44,761] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:44] "GET /power HTTP/1.1" 200 -
+[2024-05-04 09:34:44,831] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:34:46,085] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:46] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:34:46,159] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:34:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:35:08,868] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:35:08] "GET /water HTTP/1.1" 200 -
+[2024-05-04 09:35:08,985] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:35:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:35:09,879] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:35:09] "GET /air HTTP/1.1" 200 -
+[2024-05-04 09:35:09,955] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:35:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:35:13,579] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:35:13] "GET / HTTP/1.1" 200 -
+[2024-05-04 09:35:13,682] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:35:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:35:17,879] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:35:17] "GET /water HTTP/1.1" 200 -
+[2024-05-04 09:35:17,952] INFO in _internal: 192.168.150.151 - - [04/May/2024 09:35:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 09:35:45,194] INFO in _internal: 192.168.150.105 - - [04/May/2024 09:35:45] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 09:37:53,197] INFO in _internal: 192.168.150.106 - - [04/May/2024 09:37:53] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 10:17:51,020] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-04 10:17:51,021] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-04 10:17:51,030] INFO in _internal:  * Restarting with stat
+[2024-05-04 10:17:57,853] WARNING in _internal:  * Debugger is active!
+[2024-05-04 10:17:57,856] INFO in _internal:  * Debugger PIN: 815-227-835
+[2024-05-04 10:17:58,041] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:17:58] "GET / HTTP/1.1" 200 -
+[2024-05-04 10:17:58,208] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:17:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 10:18:02,733] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:02] "GET /water HTTP/1.1" 200 -
+[2024-05-04 10:18:02,821] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 10:18:03,971] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:03] "GET /air HTTP/1.1" 200 -
+[2024-05-04 10:18:04,078] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 10:18:09,358] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:09] "GET /power HTTP/1.1" 200 -
+[2024-05-04 10:18:09,435] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 10:18:15,337] INFO in _internal: 192.168.150.106 - - [04/May/2024 10:18:15] "POST /depth HTTP/1.1" 200 -
+[2024-05-04 10:18:17,295] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:17] "GET /power HTTP/1.1" 200 -
+[2024-05-04 10:18:17,343] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 10:18:21,463] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:21] "GET /air HTTP/1.1" 200 -
+[2024-05-04 10:18:21,521] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 10:18:23,941] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:23] "GET /water HTTP/1.1" 200 -
+[2024-05-04 10:18:24,008] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-04 10:18:26,753] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:26] "[35m[1mGET /relay1a/off HTTP/1.1[0m" 500 -
+[2024-05-04 10:18:26,850] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:26] "GET /relay1a/off?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-05-04 10:18:26,858] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:26] "GET /relay1a/off?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-05-04 10:18:26,955] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:26] "GET /relay1a/off?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-05-04 10:18:27,012] INFO in _internal: 192.168.150.151 - - [04/May/2024 10:18:27] "[36mGET /relay1a/off?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-04 10:57:35,512] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-04 10:57:35,513] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-04 10:57:35,516] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:14:23,902] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-09 13:14:23,904] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-09 13:14:23,910] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:14:29,842] WARNING in _internal:  * Debugger is active!
+[2024-05-09 13:14:29,843] INFO in _internal:  * Debugger PIN: 236-454-440
+[2024-05-09 13:14:30,331] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:14:30] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:14:30,433] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:14:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:14:34,572] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:14:34] "GET /water HTTP/1.1" 200 -
+[2024-05-09 13:14:34,677] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:14:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:14:41,787] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:14:41] "GET /relay1a/off HTTP/1.1" 200 -
+[2024-05-09 13:14:41,865] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:14:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:15:35,856] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:15:35] "GET /air HTTP/1.1" 200 -
+[2024-05-09 13:15:35,956] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:15:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:15:40,696] INFO in _internal: 192.168.150.106 - - [09/May/2024 13:15:40] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 13:15:43,538] INFO in _internal: 192.168.150.105 - - [09/May/2024 13:15:43] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 13:18:04,883] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:18:04] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:18:04,994] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:18:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:18:52,806] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:18:52] "GET /water HTTP/1.1" 200 -
+[2024-05-09 13:18:52,865] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:18:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:18:54,384] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:18:54] "GET /air HTTP/1.1" 200 -
+[2024-05-09 13:18:54,461] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:18:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:18:58,820] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:18:58] "GET /power HTTP/1.1" 200 -
+[2024-05-09 13:18:58,888] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:18:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:19:09,471] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:19:09] "GET /power HTTP/1.1" 200 -
+[2024-05-09 13:19:09,592] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:19:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:22:41,285] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app.py', reloading
+[2024-05-09 13:22:41,897] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:22:47,388] WARNING in _internal:  * Debugger is active!
+[2024-05-09 13:22:47,390] INFO in _internal:  * Debugger PIN: 236-454-440
+[2024-05-09 13:23:22,515] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:23:22] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:23:22,619] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:23:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:25:41,760] INFO in _internal: 192.168.150.106 - - [09/May/2024 13:25:41] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 13:25:47,041] INFO in _internal: 192.168.150.105 - - [09/May/2024 13:25:47] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 13:30:55,662] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app.py', reloading
+[2024-05-09 13:30:56,256] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:38:27,579] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-09 13:38:27,579] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-09 13:38:27,583] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:38:33,678] WARNING in _internal:  * Debugger is active!
+[2024-05-09 13:38:33,681] INFO in _internal:  * Debugger PIN: 236-454-440
+[2024-05-09 13:38:33,862] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:38:33] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:38:34,027] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:38:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:38:34,358] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:38:34] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:38:34,421] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:38:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:38:37,441] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:38:37] "[35m[1mGET /mute HTTP/1.1[0m" 500 -
+[2024-05-09 13:40:45,617] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app.py', reloading
+[2024-05-09 13:40:46,235] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:40:51,459] WARNING in _internal:  * Debugger is active!
+[2024-05-09 13:40:51,460] INFO in _internal:  * Debugger PIN: 236-454-440
+[2024-05-09 13:40:54,850] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:40:54] "GET /water HTTP/1.1" 200 -
+[2024-05-09 13:40:54,984] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:40:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:40:57,000] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:40:57] "GET /air HTTP/1.1" 200 -
+[2024-05-09 13:40:57,063] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:40:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:41:03,187] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:03] "GET /power HTTP/1.1" 200 -
+[2024-05-09 13:41:03,271] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:41:18,778] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app.py', reloading
+[2024-05-09 13:41:19,371] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:41:24,946] WARNING in _internal:  * Debugger is active!
+[2024-05-09 13:41:24,947] INFO in _internal:  * Debugger PIN: 236-454-440
+[2024-05-09 13:41:28,231] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:28] "GET /power HTTP/1.1" 200 -
+[2024-05-09 13:41:28,314] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:41:35,209] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:35] "GET /air HTTP/1.1" 200 -
+[2024-05-09 13:41:35,270] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:41:36,014] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:36] "GET /water HTTP/1.1" 200 -
+[2024-05-09 13:41:36,106] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:41:36,977] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:36] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:41:37,073] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:41:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:45:39,347] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app.py', reloading
+[2024-05-09 13:45:39,941] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:47:56,016] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-09 13:47:56,017] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-09 13:47:56,024] INFO in _internal:  * Restarting with stat
+[2024-05-09 13:48:00,411] WARNING in _internal:  * Debugger is active!
+[2024-05-09 13:48:00,412] INFO in _internal:  * Debugger PIN: 236-454-440
+[2024-05-09 13:48:00,507] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:48:00] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:48:00,614] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:48:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:48:27,346] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:48:27] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:48:27,399] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:48:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:49:37,477] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:49:37] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:49:37,582] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:49:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:49:58,755] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:49:58] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:49:58,801] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:49:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:50:27,426] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:50:27] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:50:27,467] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:50:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:51:49,439] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:51:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-05-09 13:51:49,515] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:51:49] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-05-09 13:51:49,518] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:51:49] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-05-09 13:51:49,613] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:51:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-05-09 13:51:49,696] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:51:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-09 13:52:34,667] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:52:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-05-09 13:52:34,779] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:52:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:52:34,781] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:52:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-05-09 13:52:34,826] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:52:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-09 13:53:31,769] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:53:31] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:53:31,871] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:53:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:54:14,238] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:54:14] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2024-05-09 13:54:14,293] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:54:14] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:54:14,297] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:54:14] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2024-05-09 13:54:14,351] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:54:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-09 13:54:14,412] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:54:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-09 13:54:34,863] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:54:34] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:54:35,012] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:54:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:55:36,303] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:36] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:55:36,375] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:55:43,857] INFO in _internal: 192.168.150.106 - - [09/May/2024 13:55:43] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 13:55:47,798] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:47] "GET /water HTTP/1.1" 200 -
+[2024-05-09 13:55:47,903] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:55:49,247] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:49] "GET /air HTTP/1.1" 200 -
+[2024-05-09 13:55:49,332] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:55:55,045] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:55] "GET /power HTTP/1.1" 200 -
+[2024-05-09 13:55:55,128] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:55:57,644] INFO in _internal: 192.168.150.105 - - [09/May/2024 13:55:57] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 13:55:58,195] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:58] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:55:58,263] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:55:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:57:25,476] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:57:25] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:57:25,537] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:57:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:57:52,724] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:57:52] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:57:52,816] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:57:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:58:42,215] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:58:42] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:58:42,278] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:58:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:59:00,607] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:59:00] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:59:00,667] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:59:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 13:59:39,794] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:59:39] "GET / HTTP/1.1" 200 -
+[2024-05-09 13:59:39,860] INFO in _internal: 192.168.150.151 - - [09/May/2024 13:59:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:00:24,870] INFO in _internal: 192.168.150.151 - - [09/May/2024 14:00:24] "GET / HTTP/1.1" 200 -
+[2024-05-09 14:00:24,920] INFO in _internal: 192.168.150.151 - - [09/May/2024 14:00:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:00:39,768] INFO in _internal: 192.168.150.151 - - [09/May/2024 14:00:39] "GET /water HTTP/1.1" 200 -
+[2024-05-09 14:00:39,880] INFO in _internal: 192.168.150.151 - - [09/May/2024 14:00:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:05:44,636] INFO in _internal: 192.168.150.106 - - [09/May/2024 14:05:44] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 14:06:01,221] INFO in _internal: 192.168.150.105 - - [09/May/2024 14:06:01] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 14:07:02,134] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:07:02] "GET / HTTP/1.1" 200 -
+[2024-05-09 14:07:02,316] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:07:02] "GET /static/style.css HTTP/1.1" 200 -
+[2024-05-09 14:07:02,600] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:07:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-05-09 14:12:06,466] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:06] "GET /water HTTP/1.1" 200 -
+[2024-05-09 14:12:06,565] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:12:11,585] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:11] "GET /air HTTP/1.1" 200 -
+[2024-05-09 14:12:11,666] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:12:19,166] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:19] "GET /power HTTP/1.1" 200 -
+[2024-05-09 14:12:19,328] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:12:22,337] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:22] "[35m[1mGET /mute HTTP/1.1[0m" 500 -
+[2024-05-09 14:12:28,084] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:28] "[35m[1mGET /mute HTTP/1.1[0m" 500 -
+[2024-05-09 14:12:29,123] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:29] "GET / HTTP/1.1" 200 -
+[2024-05-09 14:12:29,201] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:12:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:15:45,579] INFO in _internal: 192.168.150.106 - - [09/May/2024 14:15:45] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 14:16:04,669] INFO in _internal: 192.168.150.105 - - [09/May/2024 14:16:04] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 14:25:46,614] INFO in _internal: 192.168.150.106 - - [09/May/2024 14:25:46] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 14:26:08,013] INFO in _internal: 192.168.150.105 - - [09/May/2024 14:26:08] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 14:27:16,394] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:27:16,923] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-05-09 14:27:20,901] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:20] "GET /water HTTP/1.1" 200 -
+[2024-05-09 14:27:20,974] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 14:27:34,435] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:34] "[35m[1mGET /relay1a/off HTTP/1.1[0m" 500 -
+[2024-05-09 14:27:34,607] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:34] "GET /relay1a/off?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2024-05-09 14:27:34,613] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:34] "GET /relay1a/off?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2024-05-09 14:27:34,683] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:34] "GET /relay1a/off?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2024-05-09 14:27:34,715] INFO in _internal: 192.168.150.233 - - [09/May/2024 14:27:34] "[36mGET /relay1a/off?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2024-05-09 14:35:47,497] INFO in _internal: 192.168.150.106 - - [09/May/2024 14:35:47] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 14:36:11,460] INFO in _internal: 192.168.150.105 - - [09/May/2024 14:36:11] "POST /depth HTTP/1.1" 200 -
+[2024-05-09 20:19:39,774] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:8080
+[2024-05-09 20:19:39,776] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-09 20:19:39,780] INFO in _internal:  * Restarting with stat
+[2024-05-09 20:19:44,194] WARNING in _internal:  * Debugger is active!
+[2024-05-09 20:19:44,195] INFO in _internal:  * Debugger PIN: 118-984-166
+[2024-05-09 20:27:12,470] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:8080
+[2024-05-09 20:27:12,470] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-09 20:27:12,474] INFO in _internal:  * Restarting with stat
+[2024-05-09 20:27:16,960] WARNING in _internal:  * Debugger is active!
+[2024-05-09 20:27:16,961] INFO in _internal:  * Debugger PIN: 118-984-166
+[2024-05-09 20:27:55,485] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app.py', reloading
+[2024-05-09 20:27:56,150] INFO in _internal:  * Restarting with stat
+[2024-05-09 20:28:03,810] WARNING in _internal:  * Debugger is active!
+[2024-05-09 20:28:03,812] INFO in _internal:  * Debugger PIN: 118-984-166
+[2024-05-09 20:33:52,731] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-09 20:33:52,732] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-09 20:33:52,735] INFO in _internal:  * Restarting with stat
+[2024-05-09 20:33:58,568] WARNING in _internal:  * Debugger is active!
+[2024-05-09 20:33:58,571] INFO in _internal:  * Debugger PIN: 258-922-409
+[2024-05-09 20:37:55,136] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.150.100:80
+[2024-05-09 20:37:55,137] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-05-09 20:37:55,143] INFO in _internal:  * Restarting with stat
+[2024-05-09 20:38:00,669] WARNING in _internal:  * Debugger is active!
+[2024-05-09 20:38:00,671] INFO in _internal:  * Debugger PIN: 258-922-409
+[2024-05-09 20:38:37,194] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app.py', reloading
+[2024-05-09 20:38:37,779] INFO in _internal:  * Restarting with stat
+[2024-05-09 20:38:43,323] WARNING in _internal:  * Debugger is active!
+[2024-05-09 20:38:43,325] INFO in _internal:  * Debugger PIN: 258-922-409
+[2024-05-09 20:38:55,499] INFO in _internal:  * Detected change in '/home/ty/ghouse/rpiWebServer/app.py', reloading
+[2024-05-09 20:38:56,084] INFO in _internal:  * Restarting with stat
+[2024-05-09 20:39:02,484] WARNING in _internal:  * Debugger is active!
+[2024-05-09 20:39:02,486] INFO in _internal:  * Debugger PIN: 258-922-409
+[2024-05-09 20:39:15,522] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:39:15] "GET /power HTTP/1.1" 200 -
+[2024-05-09 20:39:15,622] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:39:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 20:40:04,957] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:04] "GET / HTTP/1.1" 200 -
+[2024-05-09 20:40:05,088] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 20:40:12,212] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:12] "GET / HTTP/1.1" 200 -
+[2024-05-09 20:40:12,277] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 20:40:14,219] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:14] "GET /water HTTP/1.1" 200 -
+[2024-05-09 20:40:14,292] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 20:40:15,423] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:15] "GET /air HTTP/1.1" 200 -
+[2024-05-09 20:40:15,495] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[2024-05-09 20:40:20,699] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:20] "GET /power HTTP/1.1" 200 -
+[2024-05-09 20:40:20,804] INFO in _internal: 192.168.150.151 - - [09/May/2024 20:40:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

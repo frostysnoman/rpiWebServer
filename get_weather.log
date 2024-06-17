@@ -1,0 +1,361 @@
+
+2024-06-06 23:15:02.324514
+{'rx_state': 0, 'moist_soil_2': 1.4, 'moist_soil_1': None, 'moist_soil_4': 2.8, 'moist_soil_3': 2.7, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 70.4, 'temp_2': 65.4, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.8, 'temp_4': 65.1, 'ts': 1717736442}
+1.4
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 4, 'hum': 62.3, 'wind_dir_at_hi_speed_last_10_min': 136, 'wind_chill': 53.8, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 52.8, 'wind_dir_scalar_avg_last_10_min': 141, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 3, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 45.4, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 3.31, 'wind_dir_at_hi_speed_last_2_min': 131, 'rainfall_daily_in': 0, 'wind_dir_last': 140, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 41.3, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 143, 'heat_index': 52.9, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 8, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 141, 'temp': 53.9, 'wind_speed_avg_last_2_min': 3.18, 'solar_rad': 0, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 2.43, 'thsw_index': 50.8, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717736442}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 00:15:02.337884
+{'rx_state': 0, 'moist_soil_2': 1.3, 'moist_soil_1': None, 'moist_soil_4': 2.8, 'moist_soil_3': 2.7, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 70.4, 'temp_2': 64.9, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.8, 'temp_4': 64.8, 'ts': 1717740042}
+1.3
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 6, 'hum': 67, 'wind_dir_at_hi_speed_last_10_min': 157, 'wind_chill': 52.6, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 51.6, 'wind_dir_scalar_avg_last_10_min': 141, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 4, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 45.5, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 3.06, 'wind_dir_at_hi_speed_last_2_min': 116, 'rainfall_daily_in': 0, 'wind_dir_last': 125, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 41.9, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 129, 'heat_index': 51.6, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 7, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 127, 'temp': 52.6, 'wind_speed_avg_last_2_min': 2.68, 'solar_rad': 0, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 2.93, 'thsw_index': 49.6, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717740042}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 01:15:02.412185
+{'rx_state': 0, 'moist_soil_2': 1.3, 'moist_soil_1': None, 'moist_soil_4': 2.9, 'moist_soil_3': 2.7, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.9, 'temp_2': 64.6, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.9, 'temp_4': 64.6, 'ts': 1717743642}
+1.3
+{'rx_state': 0, 'wind_speed_hi_last_2_min': None, 'hum': 69.6, 'wind_dir_at_hi_speed_last_10_min': 140, 'wind_chill': 52, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 51, 'wind_dir_scalar_avg_last_10_min': 140, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 0, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 45.7, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 0.31, 'wind_dir_at_hi_speed_last_2_min': None, 'rainfall_daily_in': 0, 'wind_dir_last': 0, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 42.4, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 140, 'heat_index': 51, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 2, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 0, 'temp': 52, 'wind_speed_avg_last_2_min': 0, 'solar_rad': 0, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 0, 'thsw_index': 49, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717743642}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 02:15:02.408420
+{'rx_state': 0, 'moist_soil_2': 1.3, 'moist_soil_1': None, 'moist_soil_4': 3, 'moist_soil_3': 2.8, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.7, 'temp_2': 64.1, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.9, 'temp_4': 64.3, 'ts': 1717747243}
+1.3
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 4, 'hum': 73.4, 'wind_dir_at_hi_speed_last_10_min': 128, 'wind_chill': 49.7, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 49.7, 'wind_dir_scalar_avg_last_10_min': 115, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 4, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 44.7, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 2.93, 'wind_dir_at_hi_speed_last_2_min': 94, 'rainfall_daily_in': 0, 'wind_dir_last': 44, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 41.8, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 73, 'heat_index': 50, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 4, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 54, 'temp': 50, 'wind_speed_avg_last_2_min': 3.43, 'solar_rad': 0, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 3.56, 'thsw_index': 47.7, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717747243}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 03:15:01.928931
+{'rx_state': 0, 'moist_soil_2': 1.3, 'moist_soil_1': None, 'moist_soil_4': 3, 'moist_soil_3': 2.7, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.4, 'temp_2': 63.8, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.9, 'temp_4': 64, 'ts': 1717750843}
+1.3
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 6, 'hum': 79.4, 'wind_dir_at_hi_speed_last_10_min': 22, 'wind_chill': 45.3, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 45.3, 'wind_dir_scalar_avg_last_10_min': 43, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 4, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 43.5, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 4.56, 'wind_dir_at_hi_speed_last_2_min': 22, 'rainfall_daily_in': 0, 'wind_dir_last': 47, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 41.2, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 42, 'heat_index': 47.3, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 6, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 44, 'temp': 47.3, 'wind_speed_avg_last_2_min': 4.75, 'solar_rad': 0, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 4.56, 'thsw_index': 43.3, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717750843}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 04:15:02.108205
+{'rx_state': 0, 'moist_soil_2': 1.4, 'moist_soil_1': None, 'moist_soil_4': 3.1, 'moist_soil_3': 2.8, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.2, 'temp_2': 63.3, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.9, 'temp_4': 63.8, 'ts': 1717754443}
+1.4
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 5, 'hum': 71.1, 'wind_dir_at_hi_speed_last_10_min': 53, 'wind_chill': 50.7, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 50, 'wind_dir_scalar_avg_last_10_min': 56, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 4, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 45.6, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 4.06, 'wind_dir_at_hi_speed_last_2_min': 45, 'rainfall_daily_in': 0, 'wind_dir_last': 56, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 42.5, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 56, 'heat_index': 50.9, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 5, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 56, 'temp': 51.6, 'wind_speed_avg_last_2_min': 3.81, 'solar_rad': 0, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 3.75, 'thsw_index': 48, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717754443}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 05:15:02.114435
+{'rx_state': 0, 'moist_soil_2': 1.4, 'moist_soil_1': None, 'moist_soil_4': 3.2, 'moist_soil_3': 2.8, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.2, 'temp_2': 63, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.9, 'temp_4': 63.5, 'ts': 1717758043}
+1.4
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 8, 'hum': 72.9, 'wind_dir_at_hi_speed_last_10_min': 22, 'wind_chill': 46.9, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 46.9, 'wind_dir_scalar_avg_last_10_min': 39, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 9, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 43.7, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 5.18, 'wind_dir_at_hi_speed_last_2_min': 28, 'rainfall_daily_in': 0, 'wind_dir_last': 50, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 40.7, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 40, 'heat_index': 49, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 8, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 43, 'temp': 49, 'wind_speed_avg_last_2_min': 5.81, 'solar_rad': 0, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 5.93, 'thsw_index': 44.9, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717758043}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 06:15:02.008007
+{'rx_state': 0, 'moist_soil_2': 1.4, 'moist_soil_1': None, 'moist_soil_4': 3.2, 'moist_soil_3': 2.8, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.7, 'temp_2': 62.7, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.9, 'temp_4': 63.3, 'ts': 1717761643}
+1.4
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 7, 'hum': 67.4, 'wind_dir_at_hi_speed_last_10_min': 34, 'wind_chill': 50.9, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 49.9, 'wind_dir_scalar_avg_last_10_min': 29, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 5, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 45, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 4.18, 'wind_dir_at_hi_speed_last_2_min': 19, 'rainfall_daily_in': 0, 'wind_dir_last': 26, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 41.4, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 16, 'heat_index': 50.9, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 8, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 13, 'temp': 51.9, 'wind_speed_avg_last_2_min': 4.37, 'solar_rad': 12, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 4.62, 'thsw_index': 47.9, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717761643}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 07:15:02.030426
+{'rx_state': 0, 'moist_soil_2': 1.4, 'moist_soil_1': None, 'moist_soil_4': 3.2, 'moist_soil_3': 2.8, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.5, 'temp_2': 62.4, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.9, 'temp_4': 63.2, 'ts': 1717765243}
+1.4
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 11, 'hum': 58.5, 'wind_dir_at_hi_speed_last_10_min': 316, 'wind_chill': 54.4, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 53.3, 'wind_dir_scalar_avg_last_10_min': 338, 'rain_size': 1, 'uv_index': 0.7, 'tz_offset': -21600, 'wind_speed_last': 6, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 46.2, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 7.31, 'wind_dir_at_hi_speed_last_2_min': 318, 'rainfall_daily_in': 0, 'wind_dir_last': 329, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 41.7, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 341, 'heat_index': 55, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 13, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 344, 'temp': 56.1, 'wind_speed_avg_last_2_min': 7.12, 'solar_rad': 149, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 7.68, 'thsw_index': 51.6, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717765243}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 08:15:01.931593
+{'rx_state': 0, 'moist_soil_2': 1.4, 'moist_soil_1': None, 'moist_soil_4': 3.2, 'moist_soil_3': 2.8, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.7, 'temp_2': 62.2, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.8, 'temp_4': 63, 'ts': 1717768842}
+1.4
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 8, 'hum': 46, 'wind_dir_at_hi_speed_last_10_min': 333, 'wind_chill': 60.9, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 58.5, 'wind_dir_scalar_avg_last_10_min': 340, 'rain_size': 1, 'uv_index': 2, 'tz_offset': -21600, 'wind_speed_last': 3, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 45.8, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 3.68, 'wind_dir_at_hi_speed_last_2_min': 360, 'rainfall_daily_in': 0, 'wind_dir_last': 315, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 40, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 349, 'heat_index': 58.5, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 8, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 349, 'temp': 60.9, 'wind_speed_avg_last_2_min': 4.06, 'solar_rad': 274, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 4.5, 'thsw_index': 59.6, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717768842}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-07 09:15:01.974236
+{'rx_state': 0, 'moist_soil_2': 1.4, 'moist_soil_1': None, 'moist_soil_4': 3.3, 'moist_soil_3': 2.9, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.5, 'temp_2': 62.2, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.6, 'temp_4': 62.9, 'ts': 1717772442}
+1.4
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 10, 'hum': 36.8, 'wind_dir_at_hi_speed_last_10_min': 296, 'wind_chill': 66.9, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 64.6, 'wind_dir_scalar_avg_last_10_min': 319, 'rain_size': 1, 'uv_index': 4, 'tz_offset': -21600, 'wind_speed_last': 7, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 46.3, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 5.18, 'wind_dir_at_hi_speed_last_2_min': 291, 'rainfall_daily_in': 0, 'wind_dir_last': 294, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 39.6, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 307, 'heat_index': 64.6, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 14, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 299, 'temp': 66.9, 'wind_speed_avg_last_2_min': 4.93, 'solar_rad': 459, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 5.37, 'thsw_index': 69.2, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717772442}
+logged data
+None
+checked pond temp
+25.6139
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning on pipeheater
+2024-06-07 10:15:02.069082
+{'rx_state': 0, 'moist_soil_2': 1.4, 'moist_soil_1': None, 'moist_soil_4': 3.3, 'moist_soil_3': 2.9, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69, 'temp_2': 62.2, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.6, 'temp_4': 63, 'ts': 1717776042}
+1.4
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 17, 'hum': 23.8, 'wind_dir_at_hi_speed_last_10_min': 263, 'wind_chill': 71.3, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 67.7, 'wind_dir_scalar_avg_last_10_min': 302, 'rain_size': 1, 'uv_index': 6.1, 'tz_offset': -21600, 'wind_speed_last': 9, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 41.6, 'rainfall_monthly_clicks': 0, 'wind_speed_avg_last_10_min': 7.87, 'wind_dir_at_hi_speed_last_2_min': 263, 'rainfall_daily_in': 0, 'wind_dir_last': 298, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 4, 'tx_id': 1, 'rain_storm_last_start_at': 1716322561, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 33.1, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 286, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1716411660, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 311, 'heat_index': 68.5, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 2.86, 'wind_speed_hi_last_10_min': 17, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 72.644, 'wind_dir_scalar_avg_last_1_min': 298, 'temp': 72.1, 'wind_speed_avg_last_2_min': 8.31, 'solar_rad': 677, 'rainfall_monthly_mm': 0, 'rain_storm_last_mm': 1.016, 'wind_speed_avg_last_1_min': 7.87, 'thsw_index': 75.8, 'rainfall_monthly_in': 0, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.04, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1717776042}
+logged data
+None
+checked pond temp
+15.9994
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning on pipeheater
+2024-06-16 18:15:03.038193
+{'rx_state': 0, 'moist_soil_2': 1.9, 'moist_soil_1': None, 'moist_soil_4': 6.8, 'moist_soil_3': 15.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 67, 'temp_2': 69.4, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 60.3, 'temp_4': 66.1, 'ts': 1718582443}
+1.9
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 15, 'hum': 16.4, 'wind_dir_at_hi_speed_last_10_min': 180, 'wind_chill': 72.5, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 69.7, 'wind_dir_scalar_avg_last_10_min': 199, 'rain_size': 1, 'uv_index': 2.2, 'tz_offset': -21600, 'wind_speed_last': 8, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 36.6, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 13.12, 'wind_dir_at_hi_speed_last_2_min': 254, 'rainfall_daily_in': 0, 'wind_dir_last': 228, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 26.8, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 224, 'heat_index': 72.8, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 25, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 232, 'temp': 75.6, 'wind_speed_avg_last_2_min': 10.31, 'solar_rad': 388, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 10.31, 'thsw_index': 74.8, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718582443}
+logged data
+None
+checked pond temp
+15.9994
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-16 19:15:02.450699
+{'rx_state': 0, 'moist_soil_2': 1.3, 'moist_soil_1': None, 'moist_soil_4': 2, 'moist_soil_3': 2.4, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.6, 'temp_2': 69.9, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61, 'temp_4': 65.4, 'ts': 1718586043}
+1.3
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 14, 'hum': 16.7, 'wind_dir_at_hi_speed_last_10_min': 180, 'wind_chill': 70.4, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 66.8, 'wind_dir_scalar_avg_last_10_min': 198, 'rain_size': 1, 'uv_index': 0.8, 'tz_offset': -21600, 'wind_speed_last': 10, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 35.6, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 12.06, 'wind_dir_at_hi_speed_last_2_min': 218, 'rainfall_daily_in': 0, 'wind_dir_last': 250, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 25.5, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 206, 'heat_index': 69.8, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 22, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 209, 'temp': 73.4, 'wind_speed_avg_last_2_min': 10.62, 'solar_rad': 199, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 10.18, 'thsw_index': 69.2, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718586043}
+logged data
+None
+checked pond temp
+23.6008
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-16 20:15:01.901301
+{'rx_state': 0, 'moist_soil_2': 1.2, 'moist_soil_1': None, 'moist_soil_4': 2, 'moist_soil_3': 2.4, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.4, 'temp_2': 69.9, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61, 'temp_4': 65.6, 'ts': 1718589643}
+1.2
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 16, 'hum': 17.4, 'wind_dir_at_hi_speed_last_10_min': 180, 'wind_chill': 67.2, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 62.9, 'wind_dir_scalar_avg_last_10_min': 187, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 8, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 34.3, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 11.93, 'wind_dir_at_hi_speed_last_2_min': 177, 'rainfall_daily_in': 0, 'wind_dir_last': 205, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 23.9, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 188, 'heat_index': 66, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 20, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 190, 'temp': 70.3, 'wind_speed_avg_last_2_min': 10, 'solar_rad': 19, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 9.81, 'thsw_index': 61.3, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718589643}
+logged data
+None
+checked pond temp
+26.1875
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-16 21:15:01.821765
+{'rx_state': 0, 'moist_soil_2': 1.1, 'moist_soil_1': None, 'moist_soil_4': 2.1, 'moist_soil_3': 2.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.2, 'temp_2': 69.7, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 60.8, 'temp_4': 65.6, 'ts': 1718593243}
+1.1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 12, 'hum': 18.6, 'wind_dir_at_hi_speed_last_10_min': 180, 'wind_chill': 66, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 61, 'wind_dir_scalar_avg_last_10_min': 182, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 9, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 33, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 7.37, 'wind_dir_at_hi_speed_last_2_min': 176, 'rainfall_daily_in': 0, 'wind_dir_last': 190, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 22.1, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 184, 'heat_index': 61.1, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 13, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 185, 'temp': 66.1, 'wind_speed_avg_last_2_min': 8.75, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 8.25, 'thsw_index': 59, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718593243}
+logged data
+None
+checked pond temp
+24.825
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-16 22:15:02.073285
+{'rx_state': 0, 'moist_soil_2': 1.1, 'moist_soil_1': None, 'moist_soil_4': 2.2, 'moist_soil_3': 2.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69.2, 'temp_2': 69, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61, 'temp_4': 65.6, 'ts': 1718596843}
+1.1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 9, 'hum': 20.1, 'wind_dir_at_hi_speed_last_10_min': 233, 'wind_chill': 63.9, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 58.9, 'wind_dir_scalar_avg_last_10_min': 218, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 4, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 33, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 4.5, 'wind_dir_at_hi_speed_last_2_min': 225, 'rainfall_daily_in': 0, 'wind_dir_last': 222, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 22.1, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 216, 'heat_index': 58.9, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 10, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 213, 'temp': 63.9, 'wind_speed_avg_last_2_min': 5.81, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 5, 'thsw_index': 56.9, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718596843}
+logged data
+None
+checked pond temp
+24.2564
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-16 23:15:02.737834
+{'rx_state': 0, 'moist_soil_2': 1.1, 'moist_soil_1': None, 'moist_soil_4': 2.3, 'moist_soil_3': 2.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69, 'temp_2': 68.5, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61, 'temp_4': 65.4, 'ts': 1718600443}
+1.1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 6, 'hum': 18.6, 'wind_dir_at_hi_speed_last_10_min': 219, 'wind_chill': 64.2, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 59.2, 'wind_dir_scalar_avg_last_10_min': 240, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 3, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 31.8, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 4.31, 'wind_dir_at_hi_speed_last_2_min': 238, 'rainfall_daily_in': 0, 'wind_dir_last': 248, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 20.5, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 242, 'heat_index': 59.2, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 9, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 242, 'temp': 64.2, 'wind_speed_avg_last_2_min': 4.12, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 3.93, 'thsw_index': 57.2, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718600443}
+logged data
+None
+checked pond temp
+23.7441
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-17 00:15:02.023971
+{'rx_state': 0, 'moist_soil_2': 1.1, 'moist_soil_1': None, 'moist_soil_4': 2.3, 'moist_soil_3': 2.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69, 'temp_2': 68.2, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.1, 'temp_4': 65.3, 'ts': 1718604043}
+1.1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': None, 'hum': 20.4, 'wind_dir_at_hi_speed_last_10_min': 348, 'wind_chill': 62, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 57.1, 'wind_dir_scalar_avg_last_10_min': 345, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 0, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 32, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 1.25, 'wind_dir_at_hi_speed_last_2_min': None, 'rainfall_daily_in': 0, 'wind_dir_last': 0, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 20.9, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 332, 'heat_index': 57.1, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 4, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 0, 'temp': 62, 'wind_speed_avg_last_2_min': 0, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 0, 'thsw_index': 55.1, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718604043}
+logged data
+None
+checked pond temp
+23.1756
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-17 01:15:02.769350
+{'rx_state': 0, 'moist_soil_2': 1.1, 'moist_soil_1': None, 'moist_soil_4': 2.4, 'moist_soil_3': 2.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 69, 'temp_2': 67.7, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.3, 'temp_4': 65.1, 'ts': 1718607643}
+1.1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 6, 'hum': 21.1, 'wind_dir_at_hi_speed_last_10_min': 247, 'wind_chill': 60.9, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 56.6, 'wind_dir_scalar_avg_last_10_min': 235, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 2, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 31.9, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 3.87, 'wind_dir_at_hi_speed_last_2_min': 241, 'rainfall_daily_in': 0, 'wind_dir_last': 228, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 20.8, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 229, 'heat_index': 56.6, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 9, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 232, 'temp': 60.9, 'wind_speed_avg_last_2_min': 3.81, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 3.87, 'thsw_index': 54.6, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718607643}
+logged data
+None
+checked pond temp
+22.6531
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-17 02:15:02.158563
+{'rx_state': 0, 'moist_soil_2': 1.1, 'moist_soil_1': None, 'moist_soil_4': 2.4, 'moist_soil_3': 2.4, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.9, 'temp_2': 67.4, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.4, 'temp_4': 65.1, 'ts': 1718611243}
+1.1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 2, 'hum': 20.3, 'wind_dir_at_hi_speed_last_10_min': 254, 'wind_chill': 60.8, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 56.4, 'wind_dir_scalar_avg_last_10_min': None, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 2, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 31.2, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 0.5, 'wind_dir_at_hi_speed_last_2_min': 254, 'rainfall_daily_in': 0, 'wind_dir_last': 254, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 19.8, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 255, 'heat_index': 56.4, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 2, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 255, 'temp': 60.8, 'wind_speed_avg_last_2_min': 0.37, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 0.56, 'thsw_index': 54.4, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718611243}
+logged data
+None
+checked pond temp
+22.2023
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-17 03:15:02.713766
+{'rx_state': 0, 'moist_soil_2': 0.8, 'moist_soil_1': None, 'moist_soil_4': 2.1, 'moist_soil_3': 2.1, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.7, 'temp_2': 67, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.4, 'temp_4': 64.8, 'ts': 1718614842}
+0.8
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 3, 'hum': 20.5, 'wind_dir_at_hi_speed_last_10_min': 229, 'wind_chill': 58.7, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 54.8, 'wind_dir_scalar_avg_last_10_min': 241, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 1, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 30.1, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 1.31, 'wind_dir_at_hi_speed_last_2_min': 229, 'rainfall_daily_in': 0, 'wind_dir_last': 229, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 18.3, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 230, 'heat_index': 54.8, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 3, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 230, 'temp': 58.7, 'wind_speed_avg_last_2_min': 1.5, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 1.62, 'thsw_index': 52.8, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718614842}
+logged data
+None
+checked pond temp
+21.5262
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-17 04:15:02.413064
+{'rx_state': 0, 'moist_soil_2': 1.1, 'moist_soil_1': None, 'moist_soil_4': 2.5, 'moist_soil_3': 2.4, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.5, 'temp_2': 66.7, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.6, 'temp_4': 64.6, 'ts': 1718618442}
+1.1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 1, 'hum': 21.1, 'wind_dir_at_hi_speed_last_10_min': 223, 'wind_chill': 58, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 54.1, 'wind_dir_scalar_avg_last_10_min': None, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 0, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 30, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 0.81, 'wind_dir_at_hi_speed_last_2_min': 223, 'rainfall_daily_in': 0, 'wind_dir_last': 0, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 18.3, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 224, 'heat_index': 54.1, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 3, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 224, 'temp': 58, 'wind_speed_avg_last_2_min': 0.31, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 0.25, 'thsw_index': 52.1, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718618442}
+logged data
+None
+checked pond temp
+21.0242
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-17 05:15:02.798600
+{'rx_state': 0, 'moist_soil_2': 1.1, 'moist_soil_1': None, 'moist_soil_4': 2.6, 'moist_soil_3': 2.4, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.2, 'temp_2': 66.4, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.6, 'temp_4': 64.5, 'ts': 1718622042}
+1.1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 1, 'hum': 20.3, 'wind_dir_at_hi_speed_last_10_min': 233, 'wind_chill': 58.1, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 54.1, 'wind_dir_scalar_avg_last_10_min': 235, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 0, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 29.5, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 1.25, 'wind_dir_at_hi_speed_last_2_min': 234, 'rainfall_daily_in': 0, 'wind_dir_last': 0, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 17.5, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 235, 'heat_index': 54.1, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 3, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 235, 'temp': 58.1, 'wind_speed_avg_last_2_min': 0.62, 'solar_rad': 0, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 0.68, 'thsw_index': 52.1, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718622042}
+logged data
+None
+checked pond temp
+20.5428
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-17 06:15:02.057609
+{'rx_state': 0, 'moist_soil_2': 1.2, 'moist_soil_1': None, 'moist_soil_4': 2.7, 'moist_soil_3': 2.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 67.9, 'temp_2': 66.1, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.6, 'temp_4': 64.3, 'ts': 1718625642}
+1.2
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 6, 'hum': 19.4, 'wind_dir_at_hi_speed_last_10_min': 205, 'wind_chill': 58.3, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 54.3, 'wind_dir_scalar_avg_last_10_min': 223, 'rain_size': 1, 'uv_index': 0, 'tz_offset': -21600, 'wind_speed_last': 4, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 28.8, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 3.75, 'wind_dir_at_hi_speed_last_2_min': 225, 'rainfall_daily_in': 0, 'wind_dir_last': 225, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 16.6, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 223, 'heat_index': 54.3, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 6, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 222, 'temp': 58.3, 'wind_speed_avg_last_2_min': 3.87, 'solar_rad': 12, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 3.75, 'thsw_index': 52.3, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718625642}
+logged data
+None
+checked pond temp
+20.3686
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pipeheater
+2024-06-17 08:15:02.635854
+{'rx_state': 0, 'moist_soil_2': 1.2, 'moist_soil_1': None, 'moist_soil_4': 2.8, 'moist_soil_3': 2.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68, 'temp_2': 65.6, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.4, 'temp_4': 64, 'ts': 1718632842}
+1.2
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 11, 'hum': 19.3, 'wind_dir_at_hi_speed_last_10_min': 227, 'wind_chill': 62.3, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 57.3, 'wind_dir_scalar_avg_last_10_min': 223, 'rain_size': 1, 'uv_index': 2, 'tz_offset': -21600, 'wind_speed_last': 3, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 31.5, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 7.31, 'wind_dir_at_hi_speed_last_2_min': 202, 'rainfall_daily_in': 0, 'wind_dir_last': 225, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 20.2, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 208, 'heat_index': 57.7, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 12, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 210, 'temp': 62.7, 'wind_speed_avg_last_2_min': 7.75, 'solar_rad': 258, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 8, 'thsw_index': 57.6, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718632842}
+logged data
+None
+checked pond temp
+20.9115
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Got error: TimeoutException('Timed out getting discovery response for 192.168.150.211')
+2024-06-17 09:15:02.631250
+{'rx_state': 0, 'moist_soil_2': 1.2, 'moist_soil_1': None, 'moist_soil_4': 2.8, 'moist_soil_3': 2.5, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.2, 'temp_2': 65.6, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.4, 'temp_4': 63.8, 'ts': 1718636442}
+1.2
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 9, 'hum': 20.6, 'wind_dir_at_hi_speed_last_10_min': 194, 'wind_chill': 66.1, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 61.2, 'wind_dir_scalar_avg_last_10_min': 213, 'rain_size': 1, 'uv_index': 4, 'tz_offset': -21600, 'wind_speed_last': 5, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 34.8, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 5.43, 'wind_dir_at_hi_speed_last_2_min': 211, 'rainfall_daily_in': 0, 'wind_dir_last': 207, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 24.5, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 218, 'heat_index': 61.2, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 10, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 215, 'temp': 66.1, 'wind_speed_avg_last_2_min': 4.75, 'solar_rad': 459, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 5.75, 'thsw_index': 65.2, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718636442}
+logged data
+None
+checked pond temp
+20.9115
+finished everything
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning off pondheater
+No --type or --device-family and --encrypt-type defined, discovering..
+Turning on pipeheater
+2024-06-17 10:15:02.666720
+{'rx_state': 0, 'moist_soil_2': 1, 'moist_soil_1': None, 'moist_soil_4': 2.7, 'moist_soil_3': 2.2, 'wet_leaf_2': None, 'wet_leaf_1': None, 'tx_id': 2, 'temp_1': 68.2, 'temp_2': 65.8, 'trans_battery_flag': 0, 'tz_offset': -21600, 'temp_3': 61.3, 'temp_4': 64, 'ts': 1718640042}
+1
+{'rx_state': 0, 'wind_speed_hi_last_2_min': 17, 'hum': 18.4, 'wind_dir_at_hi_speed_last_10_min': 172, 'wind_chill': 67.5, 'rain_rate_hi_last_15_min_clicks': 0, 'thw_index': 62.8, 'wind_dir_scalar_avg_last_10_min': 201, 'rain_size': 1, 'uv_index': 6.3, 'tz_offset': -21600, 'wind_speed_last': 8, 'rainfall_last_60_min_clicks': 0, 'wet_bulb': 34.6, 'rainfall_monthly_clicks': 69, 'wind_speed_avg_last_10_min': 9.06, 'wind_dir_at_hi_speed_last_2_min': 180, 'rainfall_daily_in': 0, 'wind_dir_last': 186, 'rainfall_daily_mm': 0, 'rain_storm_last_clicks': 67, 'tx_id': 1, 'rain_storm_last_start_at': 1717983481, 'rain_rate_hi_clicks': 0, 'rainfall_last_15_min_in': 0, 'rainfall_daily_clicks': 0, 'dew_point': 24.2, 'rainfall_last_15_min_mm': 0, 'rain_rate_hi_in': 0, 'rain_storm_clicks': 0, 'rain_rate_hi_mm': 0, 'rainfall_year_clicks': 355, 'rain_storm_in': 0, 'rain_storm_last_end_at': 1718150460, 'rain_storm_mm': 0, 'wind_dir_scalar_avg_last_2_min': 178, 'heat_index': 64.3, 'rainfall_last_24_hr_in': 0, 'rainfall_last_60_min_mm': 0, 'trans_battery_flag': 0, 'rainfall_last_60_min_in': 0, 'rain_storm_start_time': None, 'rainfall_last_24_hr_mm': 0, 'rainfall_year_in': 3.55, 'wind_speed_hi_last_10_min': 18, 'rainfall_last_15_min_clicks': 0, 'rainfall_year_mm': 90.17, 'wind_dir_scalar_avg_last_1_min': 179, 'temp': 69, 'wind_speed_avg_last_2_min': 11.56, 'solar_rad': 689, 'rainfall_monthly_mm': 17.526, 'rain_storm_last_mm': 17.018, 'wind_speed_avg_last_1_min': 10.12, 'thsw_index': 70.3, 'rainfall_monthly_in': 0.69, 'rain_rate_last_mm': 0, 'rain_rate_last_clicks': 0, 'rainfall_last_24_hr_clicks': 0, 'rain_storm_last_in': 0.67, 'rain_rate_last_in': 0, 'rain_rate_hi_last_15_min_mm': 0, 'rain_rate_hi_last_15_min_in': 0, 'ts': 1718640042}
+logged data
+None
+checked pond temp
+17.7102
+finished everything

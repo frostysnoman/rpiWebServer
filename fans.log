@@ -1,0 +1,3395 @@
+The current date and time is 2024-05-04 11:30:01.816368
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fb9433a60>
+Solar radiation is: 429
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-04 12:30:02.245177
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fa4943a60>
+Solar radiation is: 863
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-04 13:30:01.640276
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f86ef3a60>
+Solar radiation is: 884
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-04 14:30:02.038358
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f99ac3a60>
+Solar radiation is: 858
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-04 15:30:01.448579
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f8c143a60>
+Solar radiation is: 780
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-05 10:51:50.783465
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f930e3a60>
+Solar radiation is: 0
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-05 11:30:01.713755
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f87e33a60>
+Solar radiation is: 798
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-05 12:30:02.144480
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fa9783a60>
+Solar radiation is: 888
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-05 13:30:01.559935
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f8e043a60>
+Solar radiation is: 635
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-05 14:30:01.962320
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fb67d3a60>
+Solar radiation is: 431
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-05 15:30:01.402736
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f8e573a60>
+Solar radiation is: 719
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-06 09:30:02.141985
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f86493a60>
+Solar radiation is: 719
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-06 10:30:02.016743
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f839d3a60>
+Solar radiation is: 696
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-06 11:30:01.479998
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fa4893a60>
+Solar radiation is: 696
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-06 13:18:16.053760
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f8a443a60>
+Solar radiation is: 357
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-06 13:30:01.678182
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fb36e3a60>
+Solar radiation is: 357
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-06 14:30:01.497344
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f8c073a60>
+Solar radiation is: 320
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-06 16:29:31.734760
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f9cd23a60>
+Solar radiation is: 902
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-07 11:30:01.834855
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fa8043a60>
+Solar radiation is: 856
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-07 12:36:22.228240
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fb91e3a60>
+Solar radiation is: 856
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-07 13:30:02.152349
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f9a1b3a60>
+Solar radiation is: 904
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-07 14:50:35.115794
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fa2483a60>
+Solar radiation is: 904
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-07 15:30:02.137492
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fb54c3a60>
+Solar radiation is: 763
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-08 10:45:23.148686
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fb58c3a60>
+Solar radiation is: 763
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-08 11:30:02.073475
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fb0673a60>
+Solar radiation is: 791
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-08 12:30:01.510490
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f896a3a60>
+Solar radiation is: 868
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-08 13:30:01.924258
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f96e73a60>
+Solar radiation is: 898
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-08 14:30:01.332922
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f7f593a60>
+Solar radiation is: 916
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-08 15:30:01.821685
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f98003a60>
+Solar radiation is: 387
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-09 11:30:02.143046
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7faa893a60>
+Solar radiation is: 181
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-09 13:06:36.583216
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f84b73a60>
+Solar radiation is: 181
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-09 13:30:01.467559
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7f9d563a60>
+Solar radiation is: 116
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-09 14:30:01.840791
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fa1d73a60>
+Solar radiation is: 186
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-09 15:30:01.983634
+SELECT solar_rad FROM weather wheresolar_rad  order by ID DESC limit 1; 
+<sqlite3.Row object at 0x7fa0b83a60>
+Solar radiation is: 315
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-10 09:30:03.459176
+Solar radiation is: 91
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-10 10:30:02.764670
+Solar radiation is: 415
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-10 11:30:01.708911
+Solar radiation is: 403
+battery voltage: 13.7
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-10 12:30:01.702687
+Solar radiation is: 499
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-10 13:30:02.128460
+Solar radiation is: 659
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-10 14:30:01.554613
+Solar radiation is: 548
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-10 15:30:01.981778
+Solar radiation is: 490
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-11 09:30:01.708980
+Solar radiation is: 47
+battery voltage: 13.0
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-11 10:30:02.135353
+Solar radiation is: 209
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-11 11:30:01.562387
+Solar radiation is: 770
+battery voltage: 13.0
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-11 12:30:01.965852
+Solar radiation is: 353
+battery voltage: 12.9
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-11 13:30:01.398030
+Solar radiation is: 241
+battery voltage: 12.9
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-11 14:30:01.823828
+Solar radiation is: 297
+battery voltage: 12.8
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-11 15:30:02.225273
+Solar radiation is: 276
+battery voltage: 12.7
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-12 09:30:01.994183
+Solar radiation is: 86
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-12 10:30:01.421679
+Solar radiation is: 93
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-12 11:30:01.846430
+Solar radiation is: 98
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-12 12:30:02.274574
+Solar radiation is: 301
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-12 13:30:01.664738
+Solar radiation is: 355
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-12 14:30:02.102070
+Solar radiation is: 592
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-12 15:30:01.532013
+Solar radiation is: 552
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-13 09:30:01.584153
+Solar radiation is: 489
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-13 10:30:01.894569
+Solar radiation is: 512
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-13 11:30:02.255558
+Solar radiation is: 791
+battery voltage: 14.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-13 12:30:01.574930
+Solar radiation is: 1041
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-13 13:30:01.889873
+Solar radiation is: 998
+battery voltage: 14.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-13 14:30:02.216344
+Solar radiation is: 218
+battery voltage: 14.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-13 15:30:01.546047
+Solar radiation is: 925
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-14 09:30:01.581453
+Solar radiation is: 401
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-14 10:30:01.935011
+Solar radiation is: 664
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-14 11:30:01.353848
+Solar radiation is: 795
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-14 12:30:01.760970
+Solar radiation is: 902
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-14 13:30:02.171934
+Solar radiation is: 199
+battery voltage: 14.6
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-14 14:30:01.569347
+Solar radiation is: 814
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-14 15:30:01.912344
+Solar radiation is: 352
+battery voltage: 14.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-15 09:30:01.774702
+Solar radiation is: 403
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-15 10:30:02.138675
+Solar radiation is: 360
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-15 11:30:01.548825
+Solar radiation is: 199
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-15 12:30:01.977550
+Solar radiation is: 362
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-15 13:30:01.408325
+Solar radiation is: 1125
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-15 14:30:01.834671
+Solar radiation is: 359
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-15 15:30:02.258792
+Solar radiation is: 276
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-16 09:30:01.739692
+Solar radiation is: 408
+battery voltage: 12.7
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-16 10:30:02.146352
+Solar radiation is: 726
+battery voltage: 12.6
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-16 11:30:01.516504
+Solar radiation is: 1025
+battery voltage: 12.7
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-16 12:30:01.891716
+Solar radiation is: 54
+battery voltage: 11.8
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-16 13:30:02.318704
+Solar radiation is: 98
+battery voltage: 11.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-16 14:30:01.743884
+Solar radiation is: 891
+battery voltage: 12.8
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-16 15:30:02.168307
+Solar radiation is: 686
+battery voltage: 12.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-17 09:30:01.773119
+Solar radiation is: 394
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-17 10:30:02.186810
+Solar radiation is: 670
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-17 11:30:01.622488
+Solar radiation is: 793
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-17 12:30:02.030256
+Solar radiation is: 877
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-17 13:30:01.412770
+Solar radiation is: 202
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-17 14:30:01.769307
+Solar radiation is: 958
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-17 15:30:02.209213
+Solar radiation is: 902
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-18 09:30:01.735139
+Solar radiation is: 227
+battery voltage: 13.0
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-18 10:30:02.128857
+Solar radiation is: 585
+battery voltage: 12.8
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-18 11:30:01.520666
+Solar radiation is: 169
+battery voltage: 12.8
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-18 12:30:01.946770
+Solar radiation is: 1005
+battery voltage: 12.8
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-18 13:30:01.372790
+Solar radiation is: 197
+battery voltage: 12.6
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-18 14:30:01.737755
+Solar radiation is: 462
+battery voltage: 12.0
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-18 15:30:02.096351
+Solar radiation is: 394
+battery voltage: 12.0
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-19 09:30:01.694006
+Solar radiation is: 397
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-19 10:30:02.019788
+Solar radiation is: 675
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-19 11:30:01.405045
+Solar radiation is: 960
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-19 12:30:01.815895
+Solar radiation is: 946
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-19 13:30:01.858534
+Solar radiation is: 956
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-19 14:30:02.000712
+Solar radiation is: 1086
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-19 15:30:01.371384
+Solar radiation is: 849
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-20 09:30:01.768720
+Solar radiation is: 401
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-20 10:30:02.129020
+Solar radiation is: 671
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-20 11:30:01.503051
+Solar radiation is: 798
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-20 12:30:01.929320
+Solar radiation is: 882
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-20 13:30:01.333304
+Solar radiation is: 907
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-20 14:30:01.708231
+Solar radiation is: 884
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-20 15:30:02.114353
+Solar radiation is: 490
+battery voltage: 13.0
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-21 09:30:02.058349
+Solar radiation is: 410
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-21 10:30:01.406026
+Solar radiation is: 837
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-21 11:30:01.811196
+Solar radiation is: 339
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-21 12:30:02.219372
+Solar radiation is: 244
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-21 13:30:01.645818
+Solar radiation is: 608
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-21 14:30:02.044544
+Solar radiation is: 49
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-21 15:30:01.473248
+Solar radiation is: 837
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-22 09:30:01.547887
+Solar radiation is: 0
+battery voltage: 13.8
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-05-22 10:30:01.867453
+Solar radiation is: 686
+battery voltage: 14.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-22 11:30:02.186354
+Solar radiation is: 816
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-22 12:30:01.493486
+Solar radiation is: 891
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-22 13:30:01.854777
+Solar radiation is: 919
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-22 14:30:02.236329
+Solar radiation is: 1016
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-22 15:30:01.605402
+Solar radiation is: 183
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-23 09:30:01.378351
+Solar radiation is: 417
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-23 10:30:01.784217
+Solar radiation is: 677
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-23 11:30:02.099352
+Solar radiation is: 807
+battery voltage: 14.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-23 12:30:01.414788
+Solar radiation is: 886
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-23 13:30:01.831033
+Solar radiation is: 928
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-23 14:30:02.251146
+Solar radiation is: 937
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-23 15:30:01.657861
+Solar radiation is: 940
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-24 09:30:02.227406
+Solar radiation is: 418
+battery voltage: 14.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-24 10:30:01.638447
+Solar radiation is: 684
+battery voltage: 14.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-24 11:30:02.016095
+Solar radiation is: 810
+battery voltage: 14.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-24 12:30:01.383389
+Solar radiation is: 819
+battery voltage: 14.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-24 13:30:01.758656
+Solar radiation is: 984
+battery voltage: 14.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-24 14:30:02.091801
+Solar radiation is: 1069
+battery voltage: 14.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-24 15:30:01.505127
+Solar radiation is: 1078
+battery voltage: 14.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-25 09:30:02.147184
+Solar radiation is: 445
+battery voltage: 13.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-25 10:30:01.506052
+Solar radiation is: 693
+battery voltage: 13.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-25 11:30:01.919801
+Solar radiation is: 879
+battery voltage: 13.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-25 12:30:02.342912
+Solar radiation is: 946
+battery voltage: 14.5
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-25 14:30:02.256694
+Solar radiation is: 963
+battery voltage: 14.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-25 15:30:01.683028
+Solar radiation is: 227
+battery voltage: 13.4
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-26 09:30:01.568133
+Solar radiation is: 163
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-26 10:30:01.953425
+Solar radiation is: 686
+battery voltage: 13.0
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-26 11:30:01.325497
+Solar radiation is: 805
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-26 12:30:01.644283
+Solar radiation is: 932
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-26 13:30:02.060656
+Solar radiation is: 907
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-26 14:30:01.385468
+Solar radiation is: 935
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-26 15:30:01.689783
+Solar radiation is: 844
+battery voltage: 13.1
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-27 09:30:01.846903
+Solar radiation is: 424
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-27 10:30:02.167026
+Solar radiation is: 675
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-27 11:30:01.494662
+Solar radiation is: 802
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-27 12:30:01.813977
+Solar radiation is: 891
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-27 13:30:02.019399
+Solar radiation is: 921
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-27 14:30:01.343623
+Solar radiation is: 287
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-27 15:30:01.676541
+Solar radiation is: 229
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-28 09:30:01.776637
+Solar radiation is: 436
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-28 10:30:02.080409
+Solar radiation is: 680
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-28 11:30:01.402261
+Solar radiation is: 912
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-28 12:30:01.702252
+Solar radiation is: 446
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-28 13:30:02.015488
+Solar radiation is: 592
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-28 14:30:01.333442
+Solar radiation is: 1023
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-28 15:30:01.628738
+Solar radiation is: 206
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-29 09:30:01.437014
+Solar radiation is: 438
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-29 10:30:01.746558
+Solar radiation is: 468
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-29 11:30:01.813309
+Solar radiation is: 715
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-29 12:30:02.133794
+Solar radiation is: 211
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-29 13:30:01.434241
+Solar radiation is: 297
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-29 14:30:01.762267
+Solar radiation is: 178
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-29 15:30:02.086291
+Solar radiation is: 315
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-30 09:30:01.271994
+Solar radiation is: 438
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-30 10:30:01.579277
+Solar radiation is: 677
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-30 11:30:01.257562
+Solar radiation is: 153
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-30 12:30:01.245292
+Solar radiation is: 248
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-30 13:30:01.255702
+Solar radiation is: 366
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-30 14:30:01.236906
+Solar radiation is: 1139
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-05-30 15:30:01.252821
+Solar radiation is: 162
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-02 09:30:02.241811
+Solar radiation is: 459
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-02 10:30:02.248657
+Solar radiation is: 687
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-02 11:30:01.246178
+Solar radiation is: 814
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-02 12:30:02.225372
+Solar radiation is: 900
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-02 13:30:02.239703
+Solar radiation is: 1005
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-02 14:15:02.243641
+Solar radiation is: 1005
+battery voltage: 13.3
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-02 15:15:01.257059
+Solar radiation is: 1041
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-03 09:15:01.902234
+Solar radiation is: 281
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-03 10:15:02.029000
+Solar radiation is: 450
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-03 11:15:01.479288
+Solar radiation is: 677
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-03 12:15:01.837350
+Solar radiation is: 816
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-03 13:15:02.029546
+Solar radiation is: 461
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-03 14:15:01.277388
+Solar radiation is: 1230
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-03 15:15:01.680949
+Solar radiation is: 287
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-04 09:15:01.933286
+Solar radiation is: 343
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-04 10:15:02.082508
+Solar radiation is: 371
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-04 11:15:02.212285
+Solar radiation is: 274
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-04 12:15:01.716367
+Solar radiation is: 445
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-04 13:15:01.780866
+Solar radiation is: 455
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-04 14:15:01.838864
+Solar radiation is: 686
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-04 15:15:02.185301
+Solar radiation is: 457
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-05 09:15:01.892109
+Solar radiation is: 279
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-05 10:15:01.937725
+Solar radiation is: 462
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-05 11:15:02.108697
+Solar radiation is: 687
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-05 14:04:52.660317
+Solar radiation is: 814
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-05 14:04:55.591300
+Solar radiation is: 814
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-05 14:15:01.498324
+Solar radiation is: 814
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-05 15:15:02.143933
+Solar radiation is: 911
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-06 09:15:02.176002
+Solar radiation is: 0
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-06-06 10:15:02.235555
+Solar radiation is: 455
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-06 11:15:01.343035
+Solar radiation is: 679
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-06 12:15:01.438439
+Solar radiation is: 800
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-06 13:15:01.762040
+Solar radiation is: 879
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-06 14:15:01.896418
+Solar radiation is: 907
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-06 15:15:02.019512
+Solar radiation is: 891
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-07 09:15:01.386700
+Solar radiation is: 274
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-07 10:15:01.480274
+Solar radiation is: 459
+battery voltage: 13.2
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+The current date and time is 2024-06-17 09:15:02.044711
+Solar radiation is: 258
+battery voltage: 11.8
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans off
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+out of loop
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+The current date and time is 2024-06-17 10:15:02.077482
+Solar radiation is: 459
+battery voltage: 12.6
+East Underground Fan is  0
+West Underground Fan is  0
+South Turbulator is  0
+North Turbulator is  0
+turning fans on
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1
+out of loop
+East Underground Fan is  1
+West Underground Fan is  1
+South Turbulator is  1
+North Turbulator is  1

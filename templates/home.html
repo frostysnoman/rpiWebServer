@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %} 
+{% block home %}active{% endblock %}
+{% block content %}
+	<div class="container-fluid">
+		<div class="row row-cols-auto">
+			<div class="col">
+				<h1>Water Depths</h1>
+				<div class="depths">
+					<h2>Pond Depth <br> {{'%0.2f'|format( pdepth|float)}}cm / {{'%0.2f'|format(pdepth/2.54|float)}}in <br> {{'%0.0f'|format((pdepth/122)*100)}}%</h2>
+					<h2>Cistern Depth <br> {{ '%0.2f'|format(cdepth|float)}}cm / {{'%0.2f'|format(cdepth/2.54|float)}}in <br> {{'%0.2f'|format((cdepth/160)*100)}}%</h2>
+				</div>
+			</div>
+			<div class="col">
+				<h1> Greenhouse Temps</h1>
+				<div class="temps">
+					<h2>Floor <br> {{ '%0.2f'|format(valvestemp_data|float) }}&degc / {{ '%0.2f'|format(vtdf|float) }}&degf</h2>
+					<h2>Head Height <br> {{ '%0.2f'|format(headtemp_data|float) }}&degc / {{'%0.2f'|format(htdf|float) }}&degf</h2>
+					<h2>CPU <br> {{ '%0.2f'|format(cputemp|float) }}&degc / {{'%0.2f'|format(ctf|float)}}&degf</h2>
+					<h2>W Beds <br> {{ temp_soil_2 }}&degf</h2>
+					<h2>Pond <br> {{ temp_soil_1 }}&degf</h2>
+					<h2>S Beds <br> {{ temp_soil_3 }}&degf</h2>
+					<h2>NE Beds <br> {{ temp_soil_4 }}&degf</h2>
+				</div>
+			</div>
+			<div class="col">
+				<h1>Soil Moisture</h1><h4>(wet <4-8> dry</4-8>)</h4>
+				<div class="Moisture">
+					<h2>W Beds  <br> {{ moist_soil_2 }}</h2>
+					<h2>S Beds <br> {{ moist_soil_3 }}</h2>
+					<h2>NE Beds <br>{{ moist_soil_4 }}</h2>
+				</div>
+			</div>
+			<div class="col">
+				<div class="battery">
+					<h1>12v Battery</h1>
+					<h2>Voltage: {{batt_voltage}} V</h2>
+					<h2>Current: {{batt_current}} A</h2>
+					<H2>Charge Remaining: {{batt_rem_chg}}%</H2>
+					<H2>Capacity: {{batt_cap}}%</H2>
+				</div>	
+			</div>
+	</div>
+	
+{% endblock content %}

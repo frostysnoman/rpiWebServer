@@ -1,0 +1,11 @@
+[Unit]
+Description= Flask service for webfront end to greenhouse automation
+After=network.target
+
+[Service]
+WorkingDirectory=/home/ty/ghouse/rpiWebServer
+ExecStart=/home/ty/ghouse/bin/python /home/ty/ghouse/rpiWebServer/app.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

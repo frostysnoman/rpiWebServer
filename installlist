@@ -1,0 +1,45 @@
+
+
+python3 -m venv /home/ty/ghouse/
+source /home/ty/ghouse/bin/activate
+
+sudo apt install cmake
+sudo apt install libcairo2-dev
+sudo apt install sqlite3
+sudo apt-get install python3-dbus
+sudo apt-get install libdbus-glib-1-dev libdbus-1-dev
+sudo apt-get install libgirepository1.0-dev
+sudo apt install python3-gpiozero
+
+sudo /home/ty/ghouse/bin/pip3 install gatt
+sudo /home/ty/ghouse/bin/pip3 install configparser
+sudo /home/ty/ghouse/bin/pip3 install requests
+sudo /home/ty/ghouse/bin/pip3 install dbus-python
+sudo /home/ty/ghouse/bin/pip3 install paho-mqtt
+sudo /home/ty/ghouse/bin/pip3 install PyGOobject
+sudo /home/ty/ghouse/bin/pip3 install pycairo
+sudo /home/ty/ghouse/bin/pip3 install python-kasa
+sudo /home/ty/ghouse/bin/pip3 install pydbus
+sudo /home/ty/ghouse/bin/pip3 install RPI.gpio
+sudo /home/ty/ghouse/bin/pip install flask
+sudo /home/ty/ghouse/bin/pip3 install gpiozero
+sudo /home/ty/ghouse/bin pip install python-kasa 
+
+
+cd /home/ty/ghouse/
+git clone https://frostysnoman/rpiWebServer
+
+
+
+nano /etc/systemd/system/flask.service
+add in details from file in git
+
+sudo systemctl daemon-reload
+sudo systemctl start flask.service
+sudo systemctl enable flask.service
+
+sudo crontab -e
+add in details from file in git
+
+
+

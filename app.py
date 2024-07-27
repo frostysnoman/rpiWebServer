@@ -157,31 +157,32 @@ def get_battdata():
 def get_120():
 	kasastaterun = "kasa --host 192.168.150.211 state"
 	print('get120')
-	ko = subprocess.run(kasastaterun.split(), stdout=subprocess.PIPE, stderr=subprocess.STDOUT,)
+	current_env = os.environ.copy()
+	ko = subprocess.run(kasastaterun.split(), stdout=subprocess.PIPE, stderr=subprocess.STDOUT, env=current_env)
 	lines = ko.stdout.splitlines()
-	c = lines[6]
+	c = lines[31]
 	c2 = str(c, encoding='utf-8')
-	cstat = c2[27:28]
+	cstat = c2[16:17]
 	print("chargerstat: "+cstat)
-	poh = lines[7]
+	poh = lines[48]
 	poh2 = str(poh, encoding='utf-8')
-	pohstat = poh2[30:31]
+	pohstat = poh2[16:17]
 	print("pond heater stat: "+pohstat)
-	pih = lines[8]
+	pih = lines[65]
 	pih2 = str(pih, encoding='utf-8')
-	pihstat = pih2[30:31]
+	pihstat = pih2[16:17]
 	print("pipe heater stat: "+pihstat)
-	ap = lines[9]
+	ap = lines[82]
 	ap2 = str(ap, encoding='utf-8')
-	apstat = ap2[23:24]
+	apstat = ap2[16:17]
 	print("aquaponic stat: "+apstat)
-	ef = lines[10]
+	ef = lines[99]
 	ef2 = str(ef, encoding='utf-8')
-	efstat = ef2[27:28]
+	efstat = ef2[16:17]
 	print("east fan stat: "+efstat)
-	tbd = lines[11]
+	tbd = lines[116]
 	tbd2 = str(tbd, encoding='utf-8')
-	tbdstat = tbd2[29:30]
+	tbdstat = tbd2[16:17]
 	print("tbdstat: "+tbdstat)
 		
 	return([cstat, pohstat, pihstat, apstat, efstat, tbdstat])

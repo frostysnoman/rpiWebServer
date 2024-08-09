@@ -160,6 +160,12 @@ def get_120():
 	current_env = os.environ.copy()
 	ko = subprocess.run(kasastaterun.split(), stdout=subprocess.PIPE, stderr=subprocess.STDOUT, env=current_env)
 	lines = ko.stdout.splitlines()
+	cstat = "?"
+	pohstat = "?"
+	pihstat = "?"
+	apstat = "?"
+	efstat = "?"
+	tbdstat = "?"
 	if len(lines) >= 31:
 		c = lines[31]
 		c2 = str(c, encoding='utf-8')

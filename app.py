@@ -159,6 +159,7 @@ def get_120():
 	print('get120')
 	current_env = os.environ.copy()
 	ko = subprocess.run(kasastaterun.split(), stdout=subprocess.PIPE, stderr=subprocess.STDOUT, env=current_env)
+	print(ko)	
 	lines = ko.stdout.splitlines()
 	cstat = "?"
 	pohstat = "?"

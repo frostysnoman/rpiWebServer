@@ -34,9 +34,21 @@ def put_battdata(batt_data):
 	print('putbattdata')
 	if 'current' in batt_data:
 		batt_current = batt_data['current']
-	batt_voltage = batt_data['voltage']
-	batt_rem_charge = batt_data['remaining_charge']
-	batt_capacity = batt_data['capacity']
+	else:
+		batt_current = '0'
+		print('missing data')
+	if 'voltage' in batt_data:
+		batt_voltage = batt_data['voltage']
+	else:
+		batt_voltage = '0'
+	if 'remaining_charge' in batt_data:
+		batt_rem_charge = batt_data['remaining_charge']
+	else:
+		batt_rem_charge = '0'
+	if 'capacity' in batt_data:
+		batt_capacity = batt_data['capacity']
+	else: 
+		batt_capacity = '0'
 	conn.execute('INSERT INTO battdata (batt_current, batt_voltage, batt_rem_charge, batt_capacity) VALUES (?, ?, ?, ?)', (batt_current, batt_voltage, batt_rem_charge, batt_capacity))
 	conn.commit()
 	print('wrote to db')

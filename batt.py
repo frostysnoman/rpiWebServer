@@ -6,7 +6,7 @@ import sqlite3
 import subprocess
 from datetime import datetime
 current_date_and_time = datetime.now()
-
+trynum = 0
 from renogybt import BatteryClient, DataLogger, Utils
 
 def get_db_connection():
@@ -81,18 +81,33 @@ config.read(config_path)
 
 # the callback func when you receive data
 def on_data_received(client, data):
+	global trynum
 	filtered_data = Utils.filter_fields(data, config['data']['fields'])
 	print('odr')
 	print(filtered_data)
-	put_battdata(filtered_data)
-	
-	print('finished odr')
-	client.disconnect()
-	pass
-	
+	if "current" in filtered_data:
+		print("current returned")
+		put_battdata(filtered_data)
+		print('finished odr')
+		client.disconnect()
+		pass
+		return False
+	else:
+		print("Current not returned")
+		trynum += 1
+		print(trynum, "attempt")
+		if trynum > 5:
+			print("ran out of attempts")
+			return False
+		else:
+			return True
+
 print(current_date_and_time)
+trynum =1
 print('calling client')
-BatteryClient(config, on_data_received).connect()
+while True:
+	BatteryClient(config, on_data_received).connect()
+	
 dbus.connection.close()
 print('finished')
 sys.exit('data written')

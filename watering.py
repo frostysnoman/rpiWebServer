@@ -85,25 +85,25 @@ todaynum = 0
 todaynum = current_date_and_time.weekday()
 if todaynum in waterdays:
 		print('watering day')
-		if 8 <= current_date_and_time.hour <= 15: # water between 9am and 3pm
+		if 10 <= current_date_and_time.hour <= 15: # water between 9am and 3pm
 			print('watering hours')
 			zones = ["1","2","3","4"]
 			print("turning on pump")
 			for z in zones:
 				if z == 1:
 					print('getting moisture for chaos')
-					moisture_data = get_zonemoist((z+1))
+					moisture_data = get_zonemoist((2))
 				elif z == 2 or z == 3:
 					print('getting moisture for S')
-					moisture_data = get_zonemoist((z+1))	
+					moisture_data = get_zonemoist((3))	
 				else:
 					print('checking moisture for zone '+z)  # check kpa of beds to see if they are two wet
-					moisture_data = get_zonemoist(z)
+					moisture_data = get_zonemoist(4)
 				print('moisture is: '+str(moisture_data))
 				if moisture_data < 3:
 					print('zone '+ z + ' is plenty moist')
 				else:
-					print('turning on zone '+ z +' for 1 hr')
+					print('turning on zone '+ z +' for 25 min')
 					current_date_and_time = datetime.now()
 					print(current_date_and_time)
 					GPIO.output(relay1b, GPIO.HIGH)
@@ -129,7 +129,7 @@ if todaynum in waterdays:
 					conn = get_db_connection()
 					conn.execute('INSERT INTO watering (zone) VALUES (?)', (z))
 					conn.commit()
-					time.sleep(3000)
+					time.sleep(1500)
 					GPIO.output(relay1b, GPIO.LOW)
 					GPIO.output(relay2b, GPIO.LOW)
 					GPIO.output(relay7a, GPIO.LOW)

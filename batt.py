@@ -59,16 +59,20 @@ def put_battdata(batt_data):
 	brc = batt_data2[2]
 	bcap = batt_data2[3]
 	actuator = 'charger'
+	print(current_date_and_time)
 	if brc < 80:
 		print('Current charge is : ',brc)
 		kasarun = "kasa --host 192.168.150.211 on --name "+actuator
 		current_env = os.environ.copy()
-		subprocess.run(kasarun.split(), env=current_env, shell=True)
+		subprocess.run(kasarun, env=current_env, shell=True)
+#		subprocess.run(kasarun.split(), env=current_env, shell=True)
 	else:
 		print('Current charge is :',brc)
 		kasarun = "kasa --host 192.168.150.211 off --name "+actuator
 		current_env = os.environ.copy()
-		subprocess.run(kasarun.split(), env=current_env, shell=True)
+		subprocess.run(kasarun, env=current_env, shell=True)
+#		subprocess.run(kasarun.split(), env=current_env, shell=True)
+
 	pass
 
 

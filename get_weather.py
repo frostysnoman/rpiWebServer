@@ -72,18 +72,23 @@ ts2 = moisture['temp_soil_2']
 actuator = 'pondheater'	
 if ts2 < 60:
 	kasarun = "kasa --host 192.168.150.211 on --name "+actuator
-	subprocess.run(kasarun.split())
+	current_env = os.environ.copy()
+	subprocess.run(kasarun.split(), env=current_env, shell=True)
+
 else:
 	kasarun = "kasa --host 192.168.150.211 off --name "+actuator
-	subprocess.run(kasarun.split())
+	current_env = os.environ.copy()
+	subprocess.run(kasarun.split(), env=current_env, shell=True)
 print('checked pond temp')
 valvestemp_data = get_vtemps()
 actuator = 'pipeheater'	
 if valvestemp_data < 18:
 	kasarun = "kasa --host 192.168.150.211 on --name "+actuator
-	subprocess.run(kasarun.split())
+	current_env = os.environ.copy()
+	subprocess.run(kasarun.split(), env=current_env, shell=True)
 else:
 	kasarun = "kasa --host 192.168.150.211 off --name "+actuator
-	subprocess.run(kasarun.split())
+	current_env = os.environ.copy()
+	subprocess.run(kasarun.split(), env=current_env, shell=True)
 
 print('finished everything')

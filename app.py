@@ -471,24 +471,24 @@ def refresh():
 
 	if valvestemp_data < 5:
 		kasarun = "kasa --host 192.168.150.211 on --name testlight"
-		subprocess.run(kasarun.split())
+		subprocess.run(kasarun.split(), shell=True)
 		time.sleep(10)
 		kasarun = "kasa --host 192.168.150.211 on --name pipeheater"
-		subprocess.run(kasarun.split())
+		subprocess.run(kasarun.split(), shell=True)
 		time.sleep(10)
 	else: 
 		kasarun = "kasa --host 192.168.150.211 off --name testlight"
-		subprocess.run(kasarun.split())
+		subprocess.run(kasarun.split(), shell=True)
 		time.sleep(10)
 		kasarun = "kasa --host 192.168.150.211 off --name pipeheater"
-		subprocess.run(kasarun.split())
+		subprocess.run(kasarun.split(), shell=True)
 		time.sleep(10)
 	if brc < 85:
 		kasarun = "kasa --host 192.168.150.211 on --name charger"
-		subprocess.run(kasarun.split())
+		subprocess.run(kasarun.split(), shell=True)
 	else:
 		kasarun = "kasa --host 192.168.150.211 off --name charger"
-		subprocess.run(kasarun.split())
+		subprocess.run(kasarun.split(), shell=True)
 	
 	templateData = {
       'title' : 'GPIO Relay Status!',
@@ -624,7 +624,7 @@ def action(deviceName, action):
 	if action =="turnon":
 		#print('test')
 		kasarun = "kasa --host 192.168.150.211 on --name "+actuator
-		subprocess.run(kasarun.split())
+		subprocess.run(kasarun.split(), shell=True)
 		hvlist = get_120()
 		cstat = hvlist[0]
 		pohstat = hvlist[1]
@@ -638,7 +638,7 @@ def action(deviceName, action):
 		
 	if action =="turnoff":
 		kasarun = "kasa --host 192.168.150.211 off --name "+actuator
-		subprocess.run(kasarun.split())
+		subprocess.run(kasarun.split(), shell=True)
 		hvlist = get_120()
 		cstat = hvlist[0]
 		pohstat = hvlist[1]

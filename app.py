@@ -163,49 +163,49 @@ def get_battdata():
 
 
 def get_120():
-	kasastaterun = "kasa --host 192.168.150.211 state"
-	print('get120')
-	current_env = os.environ.copy()
-	ko = subprocess.run(kasastaterun, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, env=current_env)
-	print(ko)	
-	lines = ko.stdout.splitlines()
-	cstat = "?"
-	pohstat = "?"
-	pihstat = "?"
-	apstat = "?"
-	efstat = "?"
-	tbdstat = "?"
-	if len(lines) >= 31:
-		c = lines[31]
-		c2 = str(c, encoding='utf-8')
-		cstat = c2[16:17]
-		print("chargerstat: "+cstat)
-	if len(lines) >= 48:
-		poh = lines[48]
-		poh2 = str(poh, encoding='utf-8')
-		pohstat = poh2[16:17]
-		print("pond heater stat: "+pohstat)
-	if len(lines) >= 65:
-		pih = lines[65]
-		pih2 = str(pih, encoding='utf-8')
-		pihstat = pih2[16:17]
-		print("pipe heater stat: "+pihstat)
-	if len(lines) >= 82:
-		ap = lines[82]
-		ap2 = str(ap, encoding='utf-8')
-		apstat = ap2[16:17]
-		print("aquaponic stat: "+apstat)
-	if len(lines) >= 99:
-		ef = lines[99]
-		ef2 = str(ef, encoding='utf-8')
-		efstat = ef2[16:17]
-		print("east fan stat: "+efstat)
-	if len(lines) >= 116:
-		tbd = lines[116]
-		tbd2 = str(tbd, encoding='utf-8')
-		tbdstat = tbd2[16:17]
-		print("tbdstat: "+tbdstat)
-	return([cstat, pohstat, pihstat, apstat, efstat, tbdstat])
+        kasastaterun = "kasa --host 192.168.150.211 state".split()
+        print('get120')
+        current_env = os.environ.copy()
+        ko = subprocess.run(["kasa", "--host", "192.168.150.211","state"], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, env=current_env)
+        print(ko)
+        lines = ko.stdout.splitlines()
+        cstat = "?"
+        pohstat = "?"
+        pihstat = "?"
+        apstat = "?"
+        efstat = "?"
+        tbdstat = "?"
+        if len(lines) >= 35:
+                c = lines[34]
+                c2 = str(c, encoding='utf-8')
+                cstat = c2[16:17]
+                print("chargerstat: "+cstat)
+        if len(lines) >= 53:
+                poh = lines[52]
+                poh2 = str(poh, encoding='utf-8')
+                pohstat = poh2[16:17]
+                print("pond heater stat: "+pohstat)
+        if len(lines) >=71 :
+                pih = lines[70]
+                pih2 = str(pih, encoding='utf-8')
+                pihstat = pih2[16:17]
+                print("pipe heater stat: "+pihstat)
+        if len(lines) >= 89:
+                ap = lines[88]
+                ap2 = str(ap, encoding='utf-8')
+                apstat = ap2[16:17]
+                print("aquaponic stat: "+apstat)
+        if len(lines) >= 107:
+                ef = lines[106]
+                ef2 = str(ef, encoding='utf-8')
+                efstat = ef2[16:17]
+                print("east fan stat: "+efstat)
+        if len(lines) >= 125:
+                tbd = lines[124]
+                tbd2 = str(tbd, encoding='utf-8')
+                tbdstat = tbd2[16:17]
+                print("tbdstat: "+tbdstat)
+        return([cstat, pohstat, pihstat, apstat, efstat, tbdstat])
 
 def log_120(plug):
 	print(plug)
@@ -470,24 +470,24 @@ def refresh():
 	relay8bSts = GPIO.input(relay8b)
 
 	if valvestemp_data < 5:
-		kasarun = "kasa --host 192.168.150.211 on --name testlight"
+		kasarun = "kasa --host 192.168.150.211 on --name testlight".split()
 		subprocess.run(kasarun, shell=True)
 		time.sleep(10)
-		kasarun = "kasa --host 192.168.150.211 on --name pipeheater"
+		kasarun = "kasa --host 192.168.150.211 on --name pipeheater".split()
 		subprocess.run(kasarun, shell=True)
 		time.sleep(10)
 	else: 
-		kasarun = "kasa --host 192.168.150.211 off --name testlight"
+		kasarun = "kasa --host 192.168.150.211 off --name testlight".split()
 		subprocess.run(kasarun, shell=True)
 		time.sleep(10)
-		kasarun = "kasa --host 192.168.150.211 off --name pipeheater"
+		kasarun = "kasa --host 192.168.150.211 off --name pipeheater".split()
 		subprocess.run(kasarun, shell=True)
 		time.sleep(10)
 	if brc < 85:
-		kasarun = "kasa --host 192.168.150.211 on --name charger"
+		kasarun = "kasa --host 192.168.150.211 on --name charger".split()
 		subprocess.run(kasarun, shell=True)
 	else:
-		kasarun = "kasa --host 192.168.150.211 off --name charger"
+		kasarun = "kasa --host 192.168.150.211 off --name charger".split()
 		subprocess.run(kasarun, shell=True)
 	
 	templateData = {
@@ -623,7 +623,7 @@ def action(deviceName, action):
 		
 	if action =="turnon":
 		#print('test')
-		kasarun = "kasa --host 192.168.150.211 on --name "+actuator
+		kasarun = "kasa --host 192.168.150.211 on --name "+actuator.split()
 		subprocess.run(kasarun, shell=True)
 		hvlist = get_120()
 		cstat = hvlist[0]
@@ -637,7 +637,7 @@ def action(deviceName, action):
 		
 		
 	if action =="turnoff":
-		kasarun = "kasa --host 192.168.150.211 off --name "+actuator
+		kasarun = "kasa --host 192.168.150.211 off --name "+actuator.split()
 		subprocess.run(kasarun, shell=True)
 		hvlist = get_120()
 		cstat = hvlist[0]

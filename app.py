@@ -166,7 +166,7 @@ def get_120():
 	kasastaterun = "kasa --host 192.168.150.211 state"
 	print('get120')
 	current_env = os.environ.copy()
-	ko = subprocess.run(kasastaterun.split(), stdout=subprocess.PIPE, stderr=subprocess.STDOUT, env=current_env)
+	ko = subprocess.run(kasastaterun, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, env=current_env)
 	print(ko)	
 	lines = ko.stdout.splitlines()
 	cstat = "?"
@@ -471,24 +471,24 @@ def refresh():
 
 	if valvestemp_data < 5:
 		kasarun = "kasa --host 192.168.150.211 on --name testlight"
-		subprocess.run(kasarun.split(), shell=True)
+		subprocess.run(kasarun, shell=True)
 		time.sleep(10)
 		kasarun = "kasa --host 192.168.150.211 on --name pipeheater"
-		subprocess.run(kasarun.split(), shell=True)
+		subprocess.run(kasarun, shell=True)
 		time.sleep(10)
 	else: 
 		kasarun = "kasa --host 192.168.150.211 off --name testlight"
-		subprocess.run(kasarun.split(), shell=True)
+		subprocess.run(kasarun, shell=True)
 		time.sleep(10)
 		kasarun = "kasa --host 192.168.150.211 off --name pipeheater"
-		subprocess.run(kasarun.split(), shell=True)
+		subprocess.run(kasarun, shell=True)
 		time.sleep(10)
 	if brc < 85:
 		kasarun = "kasa --host 192.168.150.211 on --name charger"
-		subprocess.run(kasarun.split(), shell=True)
+		subprocess.run(kasarun, shell=True)
 	else:
 		kasarun = "kasa --host 192.168.150.211 off --name charger"
-		subprocess.run(kasarun.split(), shell=True)
+		subprocess.run(kasarun, shell=True)
 	
 	templateData = {
       'title' : 'GPIO Relay Status!',
@@ -624,7 +624,7 @@ def action(deviceName, action):
 	if action =="turnon":
 		#print('test')
 		kasarun = "kasa --host 192.168.150.211 on --name "+actuator
-		subprocess.run(kasarun.split(), shell=True)
+		subprocess.run(kasarun, shell=True)
 		hvlist = get_120()
 		cstat = hvlist[0]
 		pohstat = hvlist[1]
@@ -638,7 +638,7 @@ def action(deviceName, action):
 		
 	if action =="turnoff":
 		kasarun = "kasa --host 192.168.150.211 off --name "+actuator
-		subprocess.run(kasarun.split(), shell=True)
+		subprocess.run(kasarun, shell=True)
 		hvlist = get_120()
 		cstat = hvlist[0]
 		pohstat = hvlist[1]

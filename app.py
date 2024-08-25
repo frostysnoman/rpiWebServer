@@ -15,7 +15,7 @@ import subprocess
 import string
 from datetime import datetime
 current_date_and_time = datetime.now()
-
+logging.basicConfig(filename='flask.log', level=logging.DEBUG)
 dictConfig(
     {
         "version": 1,
@@ -50,7 +50,9 @@ app.config['SECRET_KEY'] = '12345'
 valvestemp_data = 0.0
 headtemp_data = 0.0
 pdepth = 0.0
+pdts = current_date_and_time
 cdepth = 0.0
+cdts = current_date_and_time
 ms1 = 100
 ms2 = 100
 ms3 = 100
@@ -92,26 +94,32 @@ def get_vtemps():
 def get_pdepths():
 	conn = get_db_connection()
 	pdepth_data = 0.0
-	depth = conn.execute('SELECT depth FROM depths where loc = "pond" order by ID DESC limit 1; ').fetchone()
+	pdts = current_date_and_time
+	print(pdts)
+	depth = conn.execute('SELECT depth, dts FROM depths where loc = "pond" order by ID DESC limit 1; ').fetchone()
 	if depth is None:
 		pdepth_data = '0'
 	else: 
 		pdepth_data = depth['depth']
+		pdts = depth['dts']
 	print(pdepth_data)
+	print(pdts)
 	conn.close()
-	return pdepth_data	
+	return pdepth_data, pdts
 	
 def get_cdepths():
 	conn = get_db_connection()
 	cdepth_data = 0.0
-	cdepth = conn.execute('SELECT depth FROM depths where loc = "cistern" order by ID DESC limit 1; ').fetchone()
+	cdts = current_date_and_time
+	cdepth = conn.execute('SELECT depth, dts FROM depths where loc = "cistern" order by ID DESC limit 1; ').fetchone()
 	if cdepth is None:
 		cdepth_data = '0'
 	else: 
 		cdepth_data = cdepth['depth']
+		cdts = cdepth['dts']
 	print(cdepth_data)
 	conn.close()
-	return cdepth_data	
+	return cdepth_data, cdts
 	
 	
 def get_zonemoist():
@@ -217,8 +225,8 @@ cputemp = CPUTemperature().temperature
 valvestemp_data = get_vtemps()
 headtemp_data = get_htemps()
 moisture = get_zonemoist()
-pdepth = get_pdepths()
-cdepth = get_cdepths()
+pdepth, pdts = get_pdepths()
+cdepth, cdts = get_cdepths()
 hvlist = get_120()
 cstat = hvlist[0]
 pohstat = hvlist[1]
@@ -347,8 +355,10 @@ def index():
       'temp_soil_2' : ts2,
       'temp_soil_3' : ts3,
       'temp_soil_4' : ts4,	
-      'cdepth' :cdepth,
+      'cdepth' : cdepth,
+      'cdts' : cdts,
       'pdepth' : pdepth,
+      'pdts' : pdts,
       'batt_current' : bcurrent,
       'batt_voltage' : bvoltage,
       'batt_rem_chg' : brc,
@@ -418,8 +428,8 @@ def refresh():
 	valvestemp_data = get_vtemps()
 	headtemp_data = get_htemps()
 	moisture = get_zonemoist()
-	pdepth = get_pdepths()
-	cdepth = get_cdepths()
+	pdepth, pdts = get_pdepths()
+	cdepth, cdts = get_cdepths()
 	hvlist = get_120()
 	cstat = hvlist[0]
 	pohstat = hvlist[1]
@@ -513,7 +523,9 @@ def refresh():
       'temp_soil_3' : ts3,
       'temp_soil_4' : ts4,	
       'cdepth' :cdepth,
+      'cdts' : cdts,
       'pdepth' : pdepth,
+      'pdst' : pdts,
       'batt_current' : bcurrent,
       'batt_voltage' : bvoltage,
       'batt_rem_chg' : brc,
@@ -550,7 +562,9 @@ def mute():
       'moist_soil_3' : ms3,
       'moist_soil_4' : ms4,
       'cdepth' :cdepth,
+      'cdts' : cdts,
       'pdepth' : pdepth,
+      'pdts' : pdts,
       }
 	return render_template('base.html', **templateData)
 

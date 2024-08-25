@@ -1,5 +1,5 @@
-*/15 * * * * /home/ty/ghouse/rpiWebServer/batt.py > /home/ty/ghouse/rpiWebServer/batt.log 2>&1
-*/15 * * * * /home/ty/ghouse/rpiWebServer/fans.py > /home/ty/ghouse/rpiWebServer/fans.log 2>&1
-3 * * * * /home/ty/ghouse/rpiWebServer/get_weather.py > /home/ty/ghouse/rpiWebServer/get_weather.log 2>&1
-*/30 * * * * /home/ty/ghouse/rpiWebServer/waterfall.py > /home/ty/ghouse/rpiWebServer/waterfall.log 2>&1
-2 8-17 * * * /home/ty/ghouse/rpiWebServer/watering.py > /home/ty/ghouse/rpiWebServer/watering.log 2>&1
+*/10 * * * * /home/ty/ghouse/bin/python3 /home/ty/ghouse/rpiWebServer/batt.py > /home/ty/ghouse/rpiWebServer/batt.log 2>&1
+*/15 * * * * /home/ty/ghouse/bin/python3 /home/ty/ghouse/rpiWebServer/fans.py > /home/ty/ghouse/rpiWebServer/fans.log 2>&1
+3 * * * * /home/ty/ghouse/bin/python3 /home/ty/ghouse/rpiWebServer/get_weather.py > /home/ty/ghouse/rpiWebServer/get_weather.log 2>&1
+*/30 * * * * /home/ty/ghouse/bin/python3 /home/ty/ghouse/rpiWebServer/waterfall.py > /home/ty/ghouse/rpiWebServer/waterfall.log 2>&1
+2 8-17 * * * /home/ty/ghouse/bin/python3 /home/ty/ghouse/rpiWebServer/watering.py > /home/ty/ghouse/rpiWebServer/watering.log 2>&1

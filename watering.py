@@ -90,15 +90,17 @@ if todaynum in waterdays:
 			zones = ["1","2","3","4"]
 			print("turning on pump")
 			for z in zones:
-				if z == 1:
+				if z == "1":
 					print('getting moisture for chaos')
-					moisture_data = get_zonemoist((2))
-				elif z == 2 or z == 3:
+					moisture_data = get_zonemoist(("2"))
+				elif z == "2" or z == "3":
 					print('getting moisture for S')
-					moisture_data = get_zonemoist((3))	
+					moisture_data = get_zonemoist(("3"))	
+				elif z== "4":
+					print('checking moisture for zone 4')  # check kpa of beds to see if they are two wet
+					moisture_data = get_zonemoist("4")
 				else:
-					print('checking moisture for zone '+z)  # check kpa of beds to see if they are two wet
-					moisture_data = get_zonemoist(4)
+					print('not sure of zone:',z)
 				print('moisture is: '+str(moisture_data))
 				if moisture_data < 3:
 					print('zone '+ z + ' is plenty moist')

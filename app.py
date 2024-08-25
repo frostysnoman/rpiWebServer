@@ -96,7 +96,7 @@ def get_pdepths():
 	pdepth_data = 0.0
 	pdts = current_date_and_time
 	print(pdts)
-	depth = conn.execute('SELECT depth, dts FROM depths where loc = "pond" order by ID DESC limit 1; ').fetchone()
+	depth = conn.execute('SELECT depth, dts FROM depths where loc = "pond" order by dts DESC limit 1; ').fetchone()
 	if depth is None:
 		pdepth_data = '0'
 	else: 
@@ -111,7 +111,7 @@ def get_cdepths():
 	conn = get_db_connection()
 	cdepth_data = 0.0
 	cdts = current_date_and_time
-	cdepth = conn.execute('SELECT depth, dts FROM depths where loc = "cistern" order by ID DESC limit 1; ').fetchone()
+	cdepth = conn.execute('SELECT depth, dts FROM depths where loc = "cistern" order by dts DESC limit 1; ').fetchone()
 	if cdepth is None:
 		cdepth_data = '0'
 	else: 

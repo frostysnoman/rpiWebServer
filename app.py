@@ -470,25 +470,25 @@ def refresh():
 	relay8bSts = GPIO.input(relay8b)
 
 	if valvestemp_data < 5:
-		kasarun = "kasa --host 192.168.150.211 on --name testlight".split()
-		subprocess.run(kasarun, shell=True)
+		kasarun = "kasa --host 192.168.150.211 on --name testlight"
+		subprocess.run(kasarun.split())
 		time.sleep(10)
-		kasarun = "kasa --host 192.168.150.211 on --name pipeheater".split()
-		subprocess.run(kasarun, shell=True)
+		kasarun = "kasa --host 192.168.150.211 on --name pipeheater"
+		subprocess.run(kasarun.split())
 		time.sleep(10)
 	else: 
-		kasarun = "kasa --host 192.168.150.211 off --name testlight".split()
-		subprocess.run(kasarun, shell=True)
+		kasarun = "kasa --host 192.168.150.211 off --name testlight"
+		subprocess.run(kasarun.split())
 		time.sleep(10)
-		kasarun = "kasa --host 192.168.150.211 off --name pipeheater".split()
-		subprocess.run(kasarun, shell=True)
+		kasarun = "kasa --host 192.168.150.211 off --name pipeheater"
+		subprocess.run(kasarun.split())
 		time.sleep(10)
 	if brc < 85:
-		kasarun = "kasa --host 192.168.150.211 on --name charger".split()
-		subprocess.run(kasarun, shell=True)
+		kasarun = "kasa --host 192.168.150.211 on --name charger"
+		subprocess.run(kasarun.split())
 	else:
-		kasarun = "kasa --host 192.168.150.211 off --name charger".split()
-		subprocess.run(kasarun, shell=True)
+		kasarun = "kasa --host 192.168.150.211 off --name charger"
+		subprocess.run(kasarun.split())
 	
 	templateData = {
       'title' : 'GPIO Relay Status!',
@@ -623,8 +623,10 @@ def action(deviceName, action):
 		
 	if action =="turnon":
 		#print('test')
-		kasarun = "kasa --host 192.168.150.211 on --name "+actuator.split()
-		subprocess.run(kasarun, shell=True)
+		kasarun = "kasa --host 192.168.150.211 on --name "+actuator
+		print('------------------------------------------------------------------------------------')
+		print(kasarun)
+		subprocess.run(kasarun.split())
 		hvlist = get_120()
 		cstat = hvlist[0]
 		pohstat = hvlist[1]
@@ -637,8 +639,10 @@ def action(deviceName, action):
 		
 		
 	if action =="turnoff":
-		kasarun = "kasa --host 192.168.150.211 off --name "+actuator.split()
-		subprocess.run(kasarun, shell=True)
+		kasarun = "kasa --host 192.168.150.211 off --name "+actuator
+		print('------------------------------------------------------------------------------------')
+		print(kasarun)
+		subprocess.run(kasarun.split())
 		hvlist = get_120()
 		cstat = hvlist[0]
 		pohstat = hvlist[1]

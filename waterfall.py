@@ -29,7 +29,7 @@ def get_db_connection():
 
 def get_raddata():
 		conn = get_db_connection()
-		sql = 'SELECT solar_rad FROM weather  order by ID DESC limit 1; '
+		sql = 'SELECT solar_rad FROM weather where ID in (select max(ID) from weather); '
 		solarrad = conn.execute(sql).fetchone()
 		if solarrad is None:
 			#print('no rows')
@@ -43,7 +43,7 @@ def get_raddata():
 
 def get_battdata():
 	conn = get_db_connection()
-	battdata = conn.execute('SELECT batt_current, batt_voltage, batt_rem_charge, batt_capacity from battdata order by ID DESC limit 1; ').fetchone()
+	battdata = conn.execute('SELECT batt_current, batt_voltage, batt_rem_charge, batt_capacity from battdata where ID in (select max(ID) from battdata); ').fetchone()
 	#print(battdata)
 	batt_current = battdata['batt_current']
 	batt_voltage = battdata['batt_voltage']

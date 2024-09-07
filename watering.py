@@ -156,9 +156,12 @@ if todaynum in waterdays:
 					current_date_and_time = datetime.now()
 					print(current_date_and_time)
 		else:
+			print('not watering time')
 			GPIO.output(relay7a, GPIO.LOW)
 			GPIO.output(relay8a, GPIO.LOW)
 			GPIO.output(relay1b, GPIO.LOW)
 			GPIO.output(relay2b, GPIO.LOW)					
+else:
+	print('not watering day')
 print('exiting')			
 exit()			

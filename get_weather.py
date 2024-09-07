@@ -15,7 +15,7 @@ def get_db_connection():
 
 def get_vtemps():
 	conn = get_db_connection()
-	valvestemp = conn.execute('SELECT temp FROM temps where loc = "Valves" order by ID DESC limit 1; ').fetchone()
+	valvestemp = conn.execute('SELECT temp FROM temps where loc = "Valves" and ID in (select max(ID) from temps where loc = "Valves"); ').fetchone()
 	valvestemp_data = valvestemp['temp']
 	print(valvestemp_data)
 	conn.close()
@@ -25,7 +25,7 @@ def get_vtemps():
 	
 def get_zonemoist():
 		conn = get_db_connection()
-		sql = 'SELECT moist_soil_1, moist_soil_2, moist_soil_3, moist_soil_4, temp_soil_1, temp_soil_2, temp_soil_3, temp_soil_4 FROM weather where moist_soil_2 is not null order by ID DESC limit 1; '
+		sql = 'SELECT moist_soil_1, moist_soil_2, moist_soil_3, moist_soil_4, temp_soil_1, temp_soil_2, temp_soil_3, temp_soil_4 FROM weather where ID in (select max(ID) from weather where moist_soil_2 is not null); '
 		moisture = conn.execute(sql).fetchone()
 		ms1 = moisture['moist_soil_1']
 		ms2 = moisture['moist_soil_2']
@@ -72,24 +72,28 @@ moisture = get_zonemoist()
 ts2 = moisture['temp_soil_2']
 actuator = 'pondheater'	
 if ts2 < 60:
+	print('turning on pond heater')
 	kasarun = "kasa --host 192.168.150.211 on --name "+actuator
-	current_env = os.environ.copy()
-	subprocess.run(kasarun, env=current_env, shell=True)
-
+	ko = subprocess.run(kasarun.split(), timeout=2000)
+	print(ko)
 else:
+	print('turning off pond heater')
 	kasarun = "kasa --host 192.168.150.211 off --name "+actuator
-	current_env = os.environ.copy()
-	subprocess.run(kasarun, env=current_env, shell=True)
+	ko = subprocess.run(kasarun.split(), timeout=2000)
+	print(ko)
 print('checked pond temp')
 valvestemp_data = get_vtemps()
 actuator = 'pipeheater'	
 if valvestemp_data < 18:
+	print('turning on pipe heater')
 	kasarun = "kasa --host 192.168.150.211 on --name "+actuator
-	current_env = os.environ.copy()
-	subprocess.run(kasarun, env=current_env, shell=True)
+	ko = subprocess.run(kasarun.split(), timeout=2000)
+	print(ko)
+
 else:
+	print('turning off pipe heater')
 	kasarun = "kasa --host 192.168.150.211 off --name "+actuator
-	current_env = os.environ.copy()
-	subprocess.run(kasarun, env=current_env, shell=True)
+	ko = subprocess.run(kasarun.split(), timeout=2000)
+	print(ko)
 
 print('finished everything')

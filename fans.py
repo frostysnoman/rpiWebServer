@@ -99,7 +99,7 @@ print("cpuFan2 is ",fan2Sts)
 GPIO.output(fan1, GPIO.HIGH)
 GPIO.output(fan2, GPIO.HIGH)
 
-if raddata > 100 and  8 <= current_date_and_time.hour <= 17 and bvoltage > 13: # water between 9am and 3pm
+if raddata > 300 and  8 <= current_date_and_time.hour <= 17 and bvoltage > 13: # water between 9am and 3pm
 	GPIO.output(relay7b, GPIO.HIGH)
 	GPIO.output(relay6b, GPIO.HIGH)
 	GPIO.output(relay5b, GPIO.HIGH)

@@ -64,7 +64,7 @@ def get_zonemoist(x):
 		conn = get_db_connection()
 		y = str(x)
 		print('getting moisture for '+y)
-		sql = 'SELECT moist_soil_'+y+' FROM weather where moist_soil_2 is not null order by ID DESC limit 1; '
+		sql = 'SELECT moist_soil_'+y+' FROM weather where ID in (select max(ID) from weather where moist_soil_2 is not null);'
 		print(sql)
 		moisture = conn.execute(sql).fetchone()
 		if moisture is None:
